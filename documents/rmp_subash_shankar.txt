@@ -1,0 +1,742 @@
+Source: https://www.ratemyprofessors.com/professor/257190
+Professor: Subash Shankar
+Department: Computer Science
+Collected: 2026-06-13
+
+Review 1
+Class: 260
+Quality: 1.0
+Difficulty: 5.0
+Date: Mar 31st, 2026
+Review: No material to review, lectures made on the fly by hand with frequent mistakes. Long tangents that do not pertain to material actually needed to complete assignments or exams. Through me into a quarter life crisis. You will feel like a victim after exams. Good luck.
+Likes: 0
+Dislikes: 0
+
+Review 2
+Class: CSCI260
+Quality: 1.0
+Difficulty: 5.0
+Date: Mar 26th, 2026
+Review: Provided zero resources for you to succeed outside of tutoring and office hours. Lecture notes are hand written in real time during class and frequent mistakes are made. Does not post any of those handwritten notes on Brightspace, nor answers to homework. No practice material for exams outside of the previously assigned homework.
+Likes: 0
+Dislikes: 0
+
+Review 3
+Class: CSCI260
+Quality: 1.0
+Difficulty: 1.0
+Date: Mar 24th, 2026
+Review: This class felt extremely frustrating. The course relies heavily on a curve, which already shows how difficult it is to succeed. During lectures, there were frequent mistakes and confusion in explanations, which made it harder to understand the material. Despite this, grading is very strict and leaves little room for error.
+Likes: 0
+Dislikes: 0
+
+Review 4
+Class: CSCI260
+Quality: 1.0
+Difficulty: 5.0
+Date: Dec 20th, 2025
+Review: Shankar can't teach comp architecture, a subject that's already abstract but also extremely elusive, so he's really all you have to get through this course. Don't understand a topic? Too bad! There's little to no media that covers it. The best thing I've gotten from his existence is an image of him sucking on a banana from the Whatsapp group chat.
+Likes: 0
+Dislikes: 0
+
+Review 5
+Class: CSCI260
+Quality: 2.0
+Difficulty: 4.0
+Date: Jun 4th, 2025
+Review: Professor was not really good. He doesn't give you a lot to work with outside of the lectures so you'll be stuck on tutoring or self-teaching to fill in the gaps, but he's not a very tough grader. I did straight up fall asleep through a lot of his lectures though, not by choice. Overall, not the worst, but definitely a last-resort choice.
+Likes: 1
+Dislikes: 0
+
+Review 6
+Class: 260
+Quality: 1.0
+Difficulty: 5.0
+Date: May 24th, 2025
+Review: Dont fell for those good reviews it was either given by him or his tutor. He the worst.
+Likes: 0
+Dislikes: 0
+
+Review 7
+Class: CSCI260
+Quality: 5.0
+Difficulty: 3.0
+Date: May 8th, 2025
+Review: I'm surprised by his low rating. Many CS students expect professors to hand them exam problems, but Professor Shankar wants you to actually understand the concepts. He's clear, supportive, and always willing to answer questions. Tutors are helpful too. If you want to learn, he's great—but you have to put in the effort.
+Likes: 0
+Dislikes: 1
+
+Review 8
+Class: CSCI260
+Quality: 1.0
+Difficulty: 5.0
+Date: Apr 27th, 2025
+Review: I hate this class. Please just post the homework and test solution so I can understand.
+Likes: 1
+Dislikes: 0
+
+Review 9
+Class: 260
+Quality: 1.0
+Difficulty: 5.0
+Date: Apr 2nd, 2025
+Review: I don't know where to start. run away from him or take a summer course for 260. He's the worst professor I met. He throws shade at the students. He's a tough grader and doesn't put out slides on brightspace. Talk about working for intel but ends up working at HUNTER COLLEGE as snobby professor. Save yourself.
+Likes: 0
+Dislikes: 0
+
+Review 10
+Class: 260
+Quality: 1.0
+Difficulty: 5.0
+Date: Feb 26th, 2025
+Review: Run, run very far
+Likes: 0
+Dislikes: 0
+
+Review 11
+Class: CSCI372
+Quality: 5.0
+Difficulty: 4.0
+Date: Jan 20th, 2025
+Review: For this class, Prof. Shankar is amazing. Formal methods is his main area of expertise, and he demonstrates a thorough understanding of the course material that he imparts to us with great enthusiasm. I'm not sure about for other classes, but for logic and computers, he's amazing. It's quite a difficult course though, so study in groups.
+Likes: 0
+Dislikes: 1
+
+Review 12
+Class: 260
+Quality: 1.0
+Difficulty: 4.0
+Date: Jul 1st, 2024
+Review: Shankar is a professor you do NOT want to take. 20 homeworks 1 projects and a midterm and final weighing both 30 percent of your grade. Teaches lecture by writing on pieces of papers. Material is very hard to grasp, and sometimes he just rambles off topic. Curve given at the end of the final so it helps people out, but don't count on it always.
+Likes: 1
+Dislikes: 0
+
+Review 13
+Class: CSCI260
+Quality: 2.0
+Difficulty: 5.0
+Date: May 29th, 2024
+Review: You need to actually like the topic of the class to do good. It's really REALLY difficult. 20 homeworks, 2 tests, and a project. Homework can be easy, mid, or frustrating. Project was all assembly. Software homeworks were similar to the software test. Hardware homework was nothing compared to the hardware test. Class was made to be too hard, why...
+Likes: 1
+Dislikes: 0
+
+Review 14
+Class: CSCI260
+Quality: 1.0
+Difficulty: 5.0
+Date: May 27th, 2024
+Review: Don't take his class. Literally uses bare-minimum technology and doesn't grade using blackboard or anything. Returns homework by passing around a folder and doesn't give answers to previous homeworks. No slides so you have to take notes. He seems to rush material, so you need to self-study a lot. Midterm was ok, finals were terrible.
+Likes: 0
+Dislikes: 0
+
+Review 15
+Class: CSCI260
+Quality: 1.0
+Difficulty: 4.0
+Date: Apr 19th, 2024
+Review: Pros: Knows a lot. An expert in the subject. Absolutely knows what he's talking about. Cons: Almost everything else. No pedagogy. Extremely cryptic grading, disorganized lectures, very idiosyncratic in how he wants things done (yet very unclear), highly demanding, but never posts solutions to HW or exams. Condescending & unpleasant when addressed.
+Likes: 0
+Dislikes: 0
+
+Review 16
+Class: CSCI260
+Quality: 2.0
+Difficulty: 4.0
+Date: May 22nd, 2023
+Review: Class is very lecture heavy, even if you learn the materials from the book or youtube video his questions are super selective to the way he teaches the concepts. Overall terrible teaching style and grading criteria.
+Likes: 11
+Dislikes: 2
+
+Review 17
+Class: 260
+Quality: 2.0
+Difficulty: 4.0
+Date: May 21st, 2023
+Review: This course is definitely hard and he is very confusing and throws a lot of unecessary shade.The 5 star reviews are definitely the students who go above and beyond and most likely stay after class to talk to him, when the reality is that not everyone can afford to do for an 8pm class.Course is hard and he is bad, period. But you cant avoid him.
+Likes: 9
+Dislikes: 2
+
+Review 18
+Class: 260
+Quality: 4.0
+Difficulty: 3.0
+Date: Apr 28th, 2023
+Review: He's been a pretty good professor so far. I thought it would be worse from all the comments but this course is already known for its difficulty by its nature, but the lectures are pretty solid.
+Likes: 1
+Dislikes: 5
+
+Review 19
+Class: CSCI260
+Quality: 5.0
+Difficulty: 5.0
+Date: Mar 22nd, 2023
+Review: Taking him will force you to push yourself because you actually need to learn the material. For whatever reason, some students take offense to that.
+Likes: 3
+Dislikes: 4
+
+Review 20
+Class: 260
+Quality: 1.0
+Difficulty: 5.0
+Date: Dec 7th, 2022
+Review: No no no no no no no no no no no no no no no no no no no no no no. I cannot stress this enough: no no no no no no no no no no no no no no no no no no. Please save yourself. Don't enroll. DONT.
+Likes: 3
+Dislikes: 1
+
+Review 21
+Class: CSCI260
+Quality: 5.0
+Difficulty: 5.0
+Date: Jun 1st, 2022
+Review: Good prof who wants to give highest level education to his students, which maybe why some might find the class really difficult. He gives out lots of hws, a lot of which will make your scalp go bald. His lectures are good ig, but sometimes rambles on a bit too much and includes lots of unnecessary info.
+Likes: 1
+Dislikes: 1
+
+Review 22
+Class: 260
+Quality: 1.0
+Difficulty: 5.0
+Date: Apr 23rd, 2022
+Review: its the end of April and we haven't gotten grades for our midterm or project back. he grades hw outta 5 but doesn't actually tell us what's wrong so it seems like he randomly writes numbers
+Likes: 2
+Dislikes: 2
+
+Review 23
+Class: CSCI260
+Quality: 1.0
+Difficulty: 5.0
+Date: Jan 6th, 2021
+Review: This is the only course I get a D and I email to him to require a F. If u want to lower ur GPA, go ahead to take this professsor's course.
+Likes: 2
+Dislikes: 1
+
+Review 24
+Class: CSCI260
+Quality: 5.0
+Difficulty: 3.0
+Date: Nov 18th, 2020
+Review: Shankar is a good professor with great lectures. His quizzes might be difficult but it's really not that bad as long as you pay attention to the lectures. Projects are manageable as long as you start early and don't procrastinate. Many people complain about him because they're expecting an usual easy CS class at Hunter. Jokes on them.
+Likes: 1
+Dislikes: 9
+
+Review 25
+Class: CSCI260
+Quality: 1.0
+Difficulty: 1.0
+Date: Oct 5th, 2020
+Review: He doesn't care for his students. If you ask a question, he ignores or yells at his students. If you want to learn something do not take him
+Likes: 2
+Dislikes: 2
+
+Review 26
+Class: CSCI260
+Quality: 1.0
+Difficulty: 4.0
+Date: Sep 30th, 2020
+Review: For those taking computer science at Hunter College, consider taking this somewhere else via e-permit. This professor has a lot of disdain for his students. He frequently ignores questions, is condescending when he does answer them, and yells at students when they don't understand something he finds "easy". All in all, this professor is a disaster
+Likes: 3
+Dislikes: 2
+
+Review 27
+Class: CSCI260
+Quality: 5.0
+Difficulty: 4.0
+Date: Aug 18th, 2020
+Review: He is an excellent professor, but it is not a class that you can coast in. His test questions cover the same concepts as homework like he says, but you have to understand the material since he doesn't just repeat homework questions unlike many other courses. He always answered all the questions in my class.
+Likes: 1
+Dislikes: 3
+
+Review 28
+Class: CSCI260
+Quality: 1.0
+Difficulty: 1.0
+Date: Jul 13th, 2020
+Review: He does not record his lectures, nor does he post the answers for his past homework or exams on BB, therefore studying was made less efficient. He vaguely explains things. Reading the textbook will not help you
+Likes: 2
+Dislikes: 1
+
+Review 29
+Class: CSCI260
+Quality: 5.0
+Difficulty: 4.0
+Date: Feb 11th, 2020
+Review: Subash is a very difficult professor but if you keep up with the homework and study your notes, it really isn't that bad. All of the material on the tests was seen in class and practiced on homeworks and even included on the reading list. He is definitely difficult but if you want to be a computer scientist, and not a web developer, def take him.
+Likes: 1
+Dislikes: 3
+
+Review 30
+Class: CSCI260
+Quality: 4.0
+Difficulty: 4.0
+Date: Feb 11th, 2020
+Review: He gives a lot of homework, but it's good preparation for the exams. The exams won't have the same questions as the homework (whereas this happens in 135 and 235), so in that sense the exams are difficult. He is open to questions, but doesn't like ones which make it obvious that you haven't done the reading. I wish he posted homework solutions.
+Likes: 1
+Dislikes: 3
+
+Review 31
+Class: CSCI260
+Quality: 2.0
+Difficulty: 5.0
+Date: Jan 2nd, 2020
+Review: Professor Shankar is a nice guy and is knowledgable. However, he does not know how to effectively convey the material. The material is dense and pretty tricky. Students need to scour the internet to find material relevant to class work. He looks down on those who ask clarification questions. Avoid him if you can but if u have to, attend tutoring.
+Likes: 3
+Dislikes: 2
+
+Review 32
+Class: CSCI260
+Quality: 4.0
+Difficulty: 4.0
+Date: Oct 2nd, 2019
+Review: He is highly knowledgeable and passionate about the subject but is unable to break down the concepts to the students. This goes for most CS profs at Hunter really. For 260, you should teach yourself MIPS programming and MIPS architecture via youtube as well as attend the tutoring hours.
+Likes: 1
+Dislikes: 3
+
+Review 33
+Class: CSCI260
+Quality: 1.0
+Difficulty: 5.0
+Date: May 5th, 2019
+Review: He's just not a good teacher. He has overly-high learning expectations, but he doesn't break down and teach difficult material well enough. He thinks learning is a process of struggling to figure out HARD concepts on your own and "asking questions" - but those only go so far. Good luck in 260, you'll be watching a lot of youtube, googling & chegg
+Likes: 5
+Dislikes: 2
+
+Review 34
+Class: CSCI260
+Quality: 1.0
+Difficulty: 5.0
+Date: Apr 11th, 2019
+Review: He is a very knowledgeable professor, but he does not know how to teach. He does not provide solutions for any practice problems/HW/Exams. His HW and exams are very different/ more difficult than what is taught in class. You will have to devote a lot of time going to tutoring and studying in depth about the topics to do well, he does not teach it.
+Likes: 2
+Dislikes: 1
+
+Review 35
+Class: CSCI372
+Quality: 2.0
+Difficulty: 5.0
+Date: Mar 13th, 2019
+Review: Before you take his Logic & Computers elective class, I want you to know that this class is extremely demanding. Only take it if you have the time to dedicate hours to learning his material and doing HW problems. You don't really have a choice because you only have 2 exams that are worth over half your grade. He's very sporadic with grading & tough
+Likes: 2
+Dislikes: 5
+
+Review 36
+Class: CSCI135
+Quality: 5.0
+Difficulty: 3.0
+Date: May 5th, 2018
+Review: The exercises on the last page of the lecture slides are more difficult than the actual test which consists almost entirely of programming questions. There aren't solutions provided but working at them helps you get comfortable with C++/ problem solving. And Shankar is always willing to answer any question you have.
+Likes: 7
+Dislikes: 7
+
+Review 37
+Class: CSCI135
+Quality: 1.0
+Difficulty: 4.0
+Date: Mar 24th, 2018
+Review: He tells you to do the exercises on his slides to prepare for tests, but he does not provide any solutions. You get to sit and wonder if you're doing it right or go bother some tutors about it.
+Likes: 10
+Dislikes: 1
+
+Review 38
+Class: CSCI135
+Quality: 1.0
+Difficulty: 3.0
+Date: Feb 14th, 2018
+Review: The professor doesnt explain his PowerPoints well. The lectures feel all over the place. Reading the textbook helps. There are 4 question quizzes every class which can easily hurt your grade.
+Likes: 8
+Dislikes: 10
+
+Review 39
+Class: CSCI135
+Quality: 2.0
+Difficulty: 5.0
+Date: Dec 16th, 2016
+Review: Absolute nightmare. Projects are very hard and only touch the bare surface of what is taught in class. If you are having trouble understanding his lectures, studying his notes and the textbook is almost next to useless. It will not help you in complete the 3 Projects that are given during the semester. Do not take unless you have experience in C++.
+Likes: 14
+Dislikes: 4
+
+Review 40
+Class: CSCI135
+Quality: 3.0
+Difficulty: 4.0
+Date: Oct 26th, 2016
+Review: He definitely knows his subject, but giving him an intro class (mostly freshmen and sophomores) was a terrible idea. He's a difficult grader , and doesn't do much hand-holding for his students. No mandatory attendance or even homework in our course, but he offered plenty of post-chapter questions that we could optionally study from. VERY hard labs.
+Likes: 1
+Dislikes: 1
+
+Review 41
+Class: CSCI135
+Quality: 2.5
+Difficulty: 4.0
+Date: May 2nd, 2016
+Review: Knowledgeable about subject and helpful when approached with specific questions about the material. Poor lecturer and bad at eliciting student participation. If computer science is not coming easily to you, expect to spend a lot of personal time getting through it (like all other subjects). Complex assignments and labs, much easier exams.
+Likes: 0
+Dislikes: 7
+
+Review 42
+Class: CSCI135
+Quality: 2.0
+Difficulty: 5.0
+Date: Jan 5th, 2016
+Review: He's a nice enough guy in person and probably means well, but his lecturing style is long winded and often confusing. The labs were hard to read and usually impossible to complete in the 2 hour timeframe, so anticipate working on a 24 hour deadline. Syllabus vague so it's tough to prep. That being said, the 4.0 scale grading style is very forgiving
+Likes: 11
+Dislikes: 1
+
+Review 43
+Class: CSCI135
+Quality: 1.0
+Difficulty: 5.0
+Date: Jan 2nd, 2016
+Review: Here's hoping to a better computer science department in the future. During my time in his class, all of my assignments seemed to be graded very late and there was almost no reference for the textbook. It was like the textbook did not even exist in this class. Oh and don't even get me started on the labs. The labs are like solving a Rubik's cube.
+Likes: 11
+Dislikes: 7
+
+Review 44
+Class: CSCI260
+Quality: 3.5
+Difficulty: 5.0
+Date: Dec 16th, 2015
+Review: the gandhi of comp sci
+Likes: 3
+Dislikes: 9
+
+Review 45
+Class: CSCI260
+Quality: 5.0
+Difficulty: 4.0
+Date: Dec 16th, 2015
+Review: Great professor, he is definitely hard but you will learn so much.
+Likes: 11
+Dislikes: 5
+
+Review 46
+Class: 260
+Quality: 1.0
+Difficulty: 5.0
+Date: Jun 3rd, 2014
+Review: This instructor has questionable pedagogigal skills. He does not convey any study objectives. He doesn't provide any supplemental materials. He relies on his own knowledge and even that he could not teach clearly. He Should not be a teacher at the college level at all. really not sure how Hunter are allowing this kind of teacher to be there
+Likes: 8
+Dislikes: 9
+
+Review 47
+Class: CSCI260
+Quality: 5.0
+Difficulty: 4.0
+Date: Jan 10th, 2013
+Review: Best in department if you want to learn architecture. Great lectures and homework problems, but you will fail his tests if you don't do them. He will answer questions on anything about CS. Don't take him if you just want an easy class.
+Likes: 12
+Dislikes: 4
+
+Review 48
+Class: CSCI260
+Quality: 4.0
+Difficulty: 5.0
+Date: Dec 25th, 2012
+Review: Fairly difficult professor. His exams and homeworks involve questions that require actual thinking instead of "follow these instructions", so if you are someone that cannot think, don't even bother. If you can, then by all means, you can pass this course.
+Likes: 12
+Dislikes: 2
+
+Review 49
+Class: CSCI260
+Quality: 3.0
+Difficulty: 5.0
+Date: Dec 4th, 2012
+Review: He is more concerned with showing that he is knowledgable rather than actually teaching. For this reason, he goes off topic. Intentionally over complicates homework and exams. He sees that everyone is doing poorly and instead of going over material, he blames and indirectly insults students in a way that they are embarassed to ask questions.
+Likes: 1
+Dislikes: 10
+
+Review 50
+Class: CSCI260
+Quality: 1.0
+Difficulty: 5.0
+Date: Nov 25th, 2012
+Review: I can give you his class lecture: It's trivial, you should've learned this by now, I don't have time to explain this, this isn't a real computer science program, it's in the book. He'll tell you he's not afraid of failing the entire class (done it before),AMS = Doing the same thing over again and expecting different results when he teaches.
+Likes: 5
+Dislikes: 6
+
+Review 51
+Class: CSCI260
+Quality: 4.0
+Difficulty: 5.0
+Date: Aug 30th, 2012
+Review: His class is hard but if you ask him questions he will answer them, if you go to his office hours he will help you understand. He is a little unusual and maybe a bit awkward, but he is a great prof. He wants you to learn and his lectures cover almost everything that will be on your exam. Exams are hard but fair. Take notes! or you'll fail.
+Likes: 10
+Dislikes: 1
+
+Review 52
+Class: CSCI260
+Quality: 5.0
+Difficulty: 5.0
+Date: Jun 8th, 2012
+Review: yes, he is pretty hard. you have to work a lot: study the notes, read the book, do the HW to succeed in his class. material is not easy, so as are his exams. Prof. Shankar is very helpfull, he will answer all your questions until he makes sure that you understand the material. go to his office hours! if you want an easy A -you're in the wrong place
+Likes: 9
+Dislikes: 1
+
+Review 53
+Class: CS145
+Quality: 5.0
+Difficulty: 5.0
+Date: Nov 13th, 2011
+Review: I'm glad I had him. He makes you work but his course prepared me well for courses I took after I transferred out of Hunter.
+Likes: 8
+Dislikes: 1
+
+Review 54
+Class: CSCI460
+Quality: 2.5
+Difficulty: 5.0
+Date: Aug 26th, 2010
+Review: I took many times before, for 245, 360 and now I took him for 460. He is not an easy teacher but curves at the end. His homeworks can be ridiculously hard!
+Likes: 2
+Dislikes: 1
+
+Review 55
+Class: CSCI145
+Quality: 5.0
+Difficulty: 3.0
+Date: Jan 27th, 2009
+Review: Great professor. But as others have stated, the coursework can be a bit substantive, so be prepared to put in the time and effort to learn the material. Frankly speaking, though, if you feel this class is too much work, it's time to switch majors. Computer science is not supposed to be (nor should be) an "easy" major.
+Likes: 9
+Dislikes: 1
+
+Review 56
+Class: CSCI150
+Quality: 2.5
+Difficulty: 5.0
+Date: Dec 3rd, 2008
+Review: He does make your life hard, much harder than it is suppose to be. Avoid at all costs. I took him because he was the only one teach it atm, and I regret it. I'm usually a B+ student.
+Likes: 1
+Dislikes: 0
+
+Review 57
+Class: CSCI145
+Quality: 4.5
+Difficulty: 5.0
+Date: Nov 20th, 2007
+Review: he is a very good teacher. the only people who won't like him are those who don't want to work. some of his homeworks are impossible but if you do the work, you will learn a lot. takes a very mathematical approach. he is very willing to help you if you do the work and go to office hours and ask the right questions.
+Likes: 2
+Dislikes: 0
+
+Review 58
+Class: CSCI150
+Quality: 4.5
+Difficulty: 5.0
+Date: Oct 11th, 2007
+Review: He's a very very nice decent person. He makes things more difficult then they should be, but his class is pretty fun if you participate. If you don't pay attention and ask questions, it becomes boring. He grades fairly, but his tests are a headache-way beyond homework assignments and stuff not clarified in the book. You must be willing to work.
+Likes: 0
+Dislikes: 1
+
+Review 59
+Class: CSCI150
+Quality: 4.5
+Difficulty: 3.0
+Date: Jun 6th, 2007
+Review: I liked him. He is tough, but he'll explain EVERYTHING you ask! Use his office hours, if you have a Q, cause he'll help you a LOT! Do the HW. Lectures are pretty clear; if you go to class and do the HW there shouldn't be a reason for you to do bad on tests. Gives previous tests on Black Board, so the students can practice for Midterm.
+Likes: 2
+Dislikes: 0
+
+Review 60
+Class: CSCI150
+Quality: 1.0
+Difficulty: 5.0
+Date: May 3rd, 2007
+Review: don't take him. he acts like he wants you to do well and learn, but then he tries his best to throw curveballs to torture you. if you like doing 10x the amount of work you would elsewhere, take his class. if you don't have a life, take this class. if you don't have a good gpa, take this class. otherwise, don't.
+Likes: 0
+Dislikes: 1
+
+Review 61
+Class: CSCI150
+Quality: 4.0
+Difficulty: 5.0
+Date: Feb 18th, 2007
+Review: oh. my. GOSH.
+Likes: 0
+Dislikes: 1
+
+Review 62
+Class: CSCI145
+Quality: 1.0
+Difficulty: 2.0
+Date: Feb 3rd, 2007
+Review: This instructor has questionable pedagogigal skills. He does not convey any study objectives. He doesn't provide any supplemental materials. He relies on his own knowledge and even that he could not teach clearly. His lectures are unorganized. He spends tons of time on technicalities and misses the big picture and key ideas. His lecturing style is
+Likes: 0
+Dislikes: 3
+
+Review 63
+Class: CSCI150
+Quality: 3.0
+Difficulty: 5.0
+Date: Dec 31st, 2006
+Review: Prev post is nonsense. His exams vary, and he freely admits he makes things harder than needed. He should focus on basics, not on stressing students. Maybe then he wouldn't need that huge curve. A good grade is possible (I got a B), but it took much more work than it should've. I'll admit--for CS majors, he lights a fire under your ass to study.
+Likes: 1
+Dislikes: 1
+
+Review 64
+Class: CSCI150
+Quality: 5.0
+Difficulty: 1.0
+Date: Dec 31st, 2006
+Review: His exams are actually very similar to homework, and he gives partial credit for wrong answers with shown work. He explains things from the book very well, esp. all definitions and theorems. The material is interesting, but it is math. If you can't learn about 20 theorems and procedures during the entire term, then "u r 2 dumb 2 take this course."
+Likes: 0
+Dislikes: 0
+
+Review 65
+Class: CSCI150
+Quality: 1.5
+Difficulty: 5.0
+Date: Dec 1st, 2006
+Review: worst academic experience of my life. weird little math freak who's totally oblivious to how difficult his exams are. interesting subject, but he'll make you hate it. should not be teaching undergrads. i USED TO have a 4.0 gpa.
+Likes: 0
+Dislikes: 0
+
+Review 66
+Class: CS145
+Quality: 3.0
+Difficulty: 4.0
+Date: Nov 21st, 2005
+Review: Good Teacher, smart and is difficult in teaching 145 since it is the basics to Comp Sci. If you can't do this then choose another major. Half dropped from my class as well, but everyone else is finishing the program now.
+Likes: 0
+Dislikes: 0
+
+Review 67
+Class: COMPTHEORY
+Quality: 1.0
+Difficulty: 5.0
+Date: Nov 12th, 2005
+Review: had him years ago. did ok, but not because of anything he said, or should I say mumbled, in class. Out of 34 only 6 remained. A ten out of ten on the "what did he say scale." Nice guy who can't seem to learn the students names. My advice, if you have any desire to learn- avoid this guy like the plague. Ha, ha,- laugh now you will be crying later.
+Likes: 0
+Dislikes: 0
+
+Review 68
+Class: CSCI120
+Quality: 5.0
+Difficulty: 1.0
+Date: Sep 4th, 2005
+Review: If you take notes don't bother buying the textbookbook. I haven't opened mine once. If you follow his instructions you'll get an easy A.
+Likes: 0
+Dislikes: 0
+
+Review 69
+Class: CS145
+Quality: 2.5
+Difficulty: 5.0
+Date: May 5th, 2005
+Review: Took him for CS 145 and lost all interest in the major. Majority of the class dropped out, and it was a smart move. He might be a good person, but his teaching style is horrendous. Homeworks and the very difficult exams had little to do with what was done in class.
+Likes: 0
+Dislikes: 0
+
+Review 70
+Class: CSCI150
+Quality: 3.5
+Difficulty: 4.0
+Date: May 4th, 2005
+Review: Seriously, if you're going take his class, you're asking for hell. He's more of a graduate professor. He expects you to know everything about computer science. He leaves out lots of details. Computer science majors will definitely lose interest in majoring in this course cuz of him.
+Likes: 0
+Dislikes: 0
+
+Review 71
+Class: CSCI145
+Quality: 4.5
+Difficulty: 4.0
+Date: Mar 9th, 2005
+Review: One of the best computer science professor i've ever seen. he is very helpful.
+Likes: 0
+Dislikes: 0
+
+Review 72
+Class: CSCI120
+Quality: 3.0
+Difficulty: 5.0
+Date: Jan 29th, 2005
+Review: Very hard class, exams are difficult, but the Prof. is a nice guy and very fair when it comes to grading as long as you attend class and do the homeworks that are required for the class.
+Likes: 0
+Dislikes: 0
+
+Review 73
+Class: 145
+Quality: 1.0
+Difficulty: 5.0
+Date: Jan 8th, 2005
+Review: don't take him
+Likes: 0
+Dislikes: 1
+
+Review 74
+Class: CSANYCLASS
+Quality: 1.0
+Difficulty: 5.0
+Date: Dec 4th, 2004
+Review: This guy is definitely not a great professor. In fact he is an anti-professor. He drones,bores, talks to himself, never learns anyone's name, and seems immune to the fact that nobody is listening to him, nobody is conscious after five minutes, and ultimately, nobody learns. This guy should go back t
+Likes: 0
+Dislikes: 0
+
+Review 75
+Class: CSCI145
+Quality: 5.0
+Difficulty: 4.0
+Date: Nov 17th, 2004
+Review: Shankar's a great prof - very clear and answers questions well. I'm not sure where these other ratings are coming from - perhaps they're disgruntled due to the difficulty of the class. He is great at giving answers to anyone's questions. The exams are similar to the homework.
+Likes: 0
+Dislikes: 0
+
+Review 76
+Class: CS120
+Quality: 2.0
+Difficulty: 1.0
+Date: Nov 13th, 2004
+Review: Boring class, but the guy is funny to laugh at. He cracks little computer nerd jokes that nobody understands. but His quizes were really easy as long as you slightly pay attention and the final was all the same questions as the quizes. hated the class but it was easy.
+Likes: 0
+Dislikes: 0
+
+Review 77
+Class: CSTHEORY
+Quality: 1.0
+Difficulty: 5.0
+Date: Nov 13th, 2004
+Review: Smart man, but can't teach his way out of a paper bag. He does know his stuff, but that is no guarantee that you will know it. Be prepared for extremely difficult exams. The questions will have nothing to do with the class content. Recycles his graduate school exams for his undergraduates.
+Likes: 0
+Dislikes: 0
+
+Review 78
+Class: CSTHEORY
+Quality: 1.0
+Difficulty: 5.0
+Date: Sep 18th, 2004
+Review: Dull boring lectures right out of the book- but not the one you are using. A real snooze Tough to stay awake. Extremely challenging exams! Get out if u are not an excellent math student impossible. The ace is near impossible, if u'r smart a B possible.
+Likes: 0
+Dislikes: 0
+
+Review 79
+Class: DISCRETE
+Quality: 5.0
+Difficulty: 3.0
+Date: Feb 25th, 2004
+Review: This guy is a class act all the way...he has helped me enormously. You DO have to work though.
+Likes: 0
+Dislikes: 0
+
+Review 80
+Class: CSCI145
+Quality: 5.0
+Difficulty: 1.0
+Date: Feb 7th, 2004
+Review: Great teacher, everything right from the book, easy exams!
+Likes: 0
+Dislikes: 0
+
+Review 81
+Class: CSCI235
+Quality: 3.0
+Difficulty: 5.0
+Date: Nov 23rd, 2003
+Review: difficult, unmotivating.
+Likes: 0
+Dislikes: 0
+
+Review 82
+Class: CS145265
+Quality: 1.0
+Difficulty: 5.0
+Date: Oct 5th, 2003
+Review: Extremely difficult examinations. Boring lectures that are difficult to understand.
+Likes: 0
+Dislikes: 0

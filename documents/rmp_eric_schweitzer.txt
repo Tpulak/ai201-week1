@@ -1,0 +1,1578 @@
+Source Document: Rate My Professors reviews for Eric Schweitzer
+Source Type: Student professor reviews
+Prepared for: Unofficial Guide RAG project
+Note: Review text was formatted from the pasted RMP review data provided by the user.
+
+================================================================================
+
+Review 1
+Class: CSCI265
+Quality Score: 2.0
+Difficulty: 5.0
+Date of Review: Dec 22nd, 2025
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: B+; Textbook: Yes
+Review: Learned a lot but I hate his pop quizzes.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 2
+Class: CS265
+Quality Score: 4.0
+Difficulty: 4.0
+Date of Review: Dec 18th, 2025
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: Not sure yet; Textbook: Yes
+Review: The 1st time you take Eric, you'll think he's hot garbag at teaching. The 2nd time, you'll realize how much better he is compared to most CS profs at Hunter. The course was fair but difficult. Focus on quizzes (60% of your grade!!). You'll likely have to self-learn a lot, but the topics aren't too complex, just taught too abstractly by Eric imo.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 3
+Class: CS265
+Quality Score: 5.0
+Difficulty: 4.0
+Date of Review: Dec 15th, 2025
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: A; Textbook: Yes
+Review: Eric is a great professor and anyone would be lucky to take a class with him. Any student that doesn't see that does not appreciate the value of a true CS education.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 4
+Class: CS265
+Quality Score: 5.0
+Difficulty: 3.0
+Date of Review: Jul 12th, 2025
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: A-; Textbook: Yes
+Review: eric is one of the best professors at hunter college. if you think he is bad than you haven't see other cs professors at hunter. if you cant stay focus is lecture you can go do the homework that he highlights, and if you don't know how to do the homework you can search it up on YouTube and there is probably some Indian who did it.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 5
+Class: CS265
+Quality Score: 4.0
+Difficulty: 4.0
+Date of Review: Jun 13th, 2025
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Textbook: Yes
+Review: Schweitzer is fair. 15 quizzes (5 dropped) = 60%, final = 40%. HW mirrors quizzes. You can tell when a quiz is coming. Bad reviews come from ppl who skip or slack (even minimal effort = pass). Quiz avg is low but curved. Correct notation really matters. Prep 20–30 mins before class + steady effort = likely B or better. Great notes, tricky material.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 6
+Class: CSCI265
+Quality Score: 3.0
+Difficulty: 4.0
+Date of Review: Jun 4th, 2025
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: Rather not say; Textbook: Yes
+Review: Entertaining in lectures, but he goes through material quickly, esp. for an esoteric subject. Don't miss a class and don't fall behind, if you're not sure about the current lecture's material, learn it before you get swept up. Also pop quizzes are 60% of the grade, so it's not like you have a choice anyway. If it clicks for you it's elating though.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 7
+Class: CS265
+Quality Score: 2.0
+Difficulty: 4.0
+Date of Review: May 30th, 2025
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: B; Textbook: Yes
+Review: Taken this guy twice now and I do not recommend. The pop quizzes are 60% of your grade and you need to take them seriously. They're not hard as long as you did the HW or are following along in the class (I didn't do HW and barely followed along). He's ok as a lecturer. You need to take notes or you have to read the textbook (doesn't post the notes)
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 8
+Class: CSCI16000
+Quality Score: 5.0
+Difficulty: 4.0
+Date of Review: May 28th, 2025
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: A-; Textbook: Yes
+Review: Professor Eric is one of the best professors I ever had. If you don't like the topic of the class then it might be tough, especially since the grade was mainly based on pop-up quizzes and exams. The class is difficult and he may seem scary but as long as you do the homework assignments on your own and understand it, you should be good.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 9
+Class: CS265
+Quality Score: 2.0
+Difficulty: 4.0
+Date of Review: May 25th, 2025
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: Not sure yet; Textbook: Yes
+Review: Not the best & not the worst. Class is entirely based on pop quizzes. There are 15 pop quizzes worth 60% of your grade, the lowest 5 get dropped. Final is worth 40% & based on quizzes. Schweitzer's lectures aren't the best, so make sure to read the chapter before class & go to tutoring. A good grade is very possible. Get a perfect quiz average ASAP
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 10
+Class: CS265
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Apr 8th, 2025
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: Drop/Withdrawal; Textbook: N/A
+Review: He just write the lecture from copying the textbook without explaining. One of my classmate ask what is that mean , then he reread what he wrote at the beginning and ask , don't you understand ? We are here to learn , I know self study also important , but no one teach worse than him , his class base on pop quiz , so be ready come to class everyday
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 11
+Class: CS160
+Quality Score: 5.0
+Difficulty: 5.0
+Date of Review: Mar 18th, 2025
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: B-; Textbook: Yes
+Review: THIS PROFESSOR IS AMAZING NOT ONLY IS MY MENTAL GETTING RUINED BUT I GET TO LEARN A LOT. THOSE POP QUIZZES GAVE ME THE SCARE THAT I DECIDED TO TAKE HIM AGAIN NEXT SEMESTER.
+Likes: 0
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 12
+Class: CS160
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Feb 21st, 2025
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: A-; Textbook: Yes
+Review: If you weren't religious before this class, pick one and start praying.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 13
+Class: CSCI150
+Quality Score: 1.0
+Difficulty: 3.0
+Date of Review: Jan 28th, 2025
+Additional Details: Attendance: Mandatory; Textbook: Yes
+Review: This dude makes the content way harder than it needs to be. Avoid Eric like the plague.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 14
+Class: CS160
+Quality Score: 4.0
+Difficulty: 3.0
+Date of Review: Dec 21st, 2024
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: B; Textbook: Yes
+Review: Eric isn't that bad to be honest. I think it's the pop quizzes that get difficult which is understandable. You just have to study your notes thoroughly as well as studying your homework thoroughly and you should be fine. Plus if he notices that the class isn't doing well he bumps the grades up. Without the curve I would have gotten a C.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 15
+Class: CS160
+Quality Score: 4.0
+Difficulty: 4.0
+Date of Review: Dec 21st, 2024
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: B+; Textbook: Yes
+Review: 10 / 15 quizzes * 60% + Final * 40%. I would be a C if he didn't curve. Try your best in early quizzes, before it gets hard. Quizzes aren't hard if you actually studied. He's not tough on grading to. Read the book, and use the lectures to reaffirm your learning is the best. He makes mistakes, so you need to be careful of what you're copying down.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 16
+Class: CS160
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Dec 19th, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: Not sure yet; Textbook: Yes
+Review: He makes the class way harder than it needs to be. His lectures are very hard to follow because his handwriting is awful and he constantly makes mistakes. He gives pop quizzes that are worth 60% of your grade. He gives no partial credit. The only redeeming thing about him is that he supposedly curves by dropping the requirements for C down to 60.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 17
+Class: CS160
+Quality Score: 2.0
+Difficulty: 4.0
+Date of Review: Dec 19th, 2024
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: C+; Textbook: Yes
+Review: The material itself isn't that hard, but the way he does grading is horrid. 60% are on quizzes that are given out on random. Sometimes it's easy, but sometimes you get points off for a small detail or because of something he mentioned at some point in lecture. At least he drops the lowest 5.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 18
+Class: CS160
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Dec 19th, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: Not sure yet; Textbook: Yes
+Review: He makes the content much harder than it needed to be. He also writes the final/quiz questions in the most confusing way possible. Random pop quizzes that are worth 60% of your grade. And he gives little to no partial credit whatsoever. Tutoring helped me pass this class. Avoid Eric like the plague.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 19
+Class: CS160
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Dec 17th, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: A; Textbook: Yes
+Review: Don't like his pop quizzes, like the topics are unpredictable.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 20
+Class: CS160
+Quality Score: 5.0
+Difficulty: 1.0
+Date of Review: Dec 17th, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: A+; Textbook: N/A
+Review: What the skibbidi? This professor was the best, easiest class at Hunter fr fr. very understanding and gives extra credit
+Likes: 0
+Dislikes: 2
+
+--------------------------------------------------------------------------------
+
+Review 21
+Class: CS160
+Quality Score: 5.0
+Difficulty: 2.0
+Date of Review: Dec 16th, 2024
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: A+; Textbook: Yes
+Review: I'm shocked to see such low ratings on here. Prof. Schweitzer is very knowledgeable, friendly, and accommodating. The class isn't difficult, and the bottom 1/3(!) of quizzes are dropped. If you even bother to read the textbook or pay attention to the lectures you'll pass easily. I guess people are used to rock-bottom expectations and no work.
+Likes: 3
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 22
+Class: CS160
+Quality Score: 1.0
+Difficulty: 3.0
+Date of Review: Dec 15th, 2024
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: Not sure yet; Textbook: Yes
+Review: First ever professor who's out to fail you like the previous comment has said. AVOID, this class with other professor is signifcantly more straight forward, Eric just makes this class more difficult, he's probably reading the reviews right now and laughing, thinking of how he can make the next day of class unbearable.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 23
+Class: CS160
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Dec 14th, 2024
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: B; Textbook: Yes
+Review: this dude is evil bro he is the first professor I've met who is genuinely out to get you just for the fun of it. I've met professors who are bad at teaching but are good people at heart; he's bad at teaching and devoid of soul. Please don't take him if you can.
+Likes: 2
+Dislikes: 3
+
+--------------------------------------------------------------------------------
+
+Review 24
+Class: CS160
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Dec 13th, 2024
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: Not sure yet; Textbook: Yes
+Review: he is satan's right hand man
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 25
+Class: CS160
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Dec 4th, 2024
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: Drop/Withdrawal; Textbook: Yes
+Review: extremely odd grading policy, most of your grade depends on pop quizzes that are randomly assigned. I find it annoying when teachers call their tests/quizzes/assigments "easy" and "should be able to do within 2 mins" when they have a whole degree in what their teaching so obviously its easy for them. Avoid at all costs
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 26
+Class: CS265
+Quality Score: 5.0
+Difficulty: 4.0
+Date of Review: Nov 8th, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: A-; Textbook: Yes
+Review: Honestly I understand a lot of the 1 ratings and 5 difficulty the pop quizzes he gives are stress inducing. However he gives optional HW that basically mirror the quizzes so just do and understand the HW and this class should be less stressful. What I like the most about Eric is what you see is what you get and in my opinion that's fair.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 27
+Class: CSCI16000
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Nov 6th, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: Not sure yet; Textbook: Yes
+Review: Avoid Eric as much as possible. Randomized pop quizzes make class 10x more difficult than it needs to be. Lectures are also not the best imo but the worst part is just his grading system.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 28
+Class: CSCI16000
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Oct 25th, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: Not sure yet; Textbook: Yes
+Review: Do not chose him at all times, He does surprise pop up quizzes where you don't know when and what will be included and they account for 60% of your grade. Homework and participation don't matter which is insane how department allow him to do this policy of grading, cause he is lazy to do standart methods, prepare for bad grade or to fail
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 29
+Class: CS265
+Quality Score: 3.0
+Difficulty: 5.0
+Date of Review: Jul 14th, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: F; Textbook: Yes
+Review: Might have been passable. Eric said if a C was not a 50 majority of class would fail. Took his 150 as well and failed. Hard to say what final curve was. Got 59 on quizzes (60). 20 finals (40). More strict and harder finals compared to 150. Quizzes is ok. Study proofs for sure. Proofs are really specific too. Take in summer or with someone else.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 30
+Class: CS265
+Quality Score: 3.0
+Difficulty: 5.0
+Date of Review: Jun 9th, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: B-; Textbook: Yes
+Review: Oh and that reminds me. Life pro tip: if you're confused either go to the TA office or find slides from another university on our textbook. A lot of universities use the Ullman textbook. You can find slides from other colleges like UWS and just use them if you're really in a bind. I did that to help me study for the final (would recommend).
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 31
+Class: CS265
+Quality Score: 3.0
+Difficulty: 5.0
+Date of Review: Jun 9th, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: B-; Textbook: Yes
+Review: This class can be very easy to fail. Plz do not mess up on the quizzes. You think you have more quizzes than you actually do. Eric draws heavily from the textbook, plz do the homework and study for the quizzes. The middle of the class imo is the hardest, but you can make it through all of it. The final is basically the quizzes and hw. Nice dude.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 32
+Class: CS265
+Quality Score: 3.0
+Difficulty: 4.0
+Date of Review: May 30th, 2024
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: A-; Textbook: Yes
+Review: What made this class as hard as it was wasn't the material or his lectures, but that he quizzed us on the smallest possible details about the material. We averaged about 1 quiz a week, and you have to make sure you understand everything about what he spoke about and you follow his directions exactly. The final was basically 10 quizzes combined.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 33
+Class: CS265
+Quality Score: 3.0
+Difficulty: 4.0
+Date of Review: May 29th, 2024
+Additional Details: For Credit: Yes; Grade: B+; Textbook: Yes
+Review: I have never been a fan of the pop quizzes that he gives but the class is doable. The material itself isn't that difficult, and he drops 5 quizzes. If I can help it, I never want to take another class with him but often times he's the only choice. It could be worse but it could also be a lot better.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 34
+Class: CS265
+Quality Score: 4.0
+Difficulty: 3.0
+Date of Review: May 22nd, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: B+; Textbook: Yes
+Review: 15 quizzes, 5 get dropped so you at least are able to drop 5 quizzes if needed. worth 60%. not the worst class and passable as long as you study the homework questions.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 35
+Class: CSCI265
+Quality Score: 4.0
+Difficulty: 2.0
+Date of Review: Mar 21st, 2024
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: A; Textbook: Yes
+Review: Kind of silly, tries to be funny a lot. I enjoyed his lectures and found them easy to understand. Attendance and homework aren't mandatory but you will fall behind if you don't attend lecture, and homework is your best friend when studying for the final exam.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 36
+Class: CSCI265
+Quality Score: 4.0
+Difficulty: 4.0
+Date of Review: Aug 31st, 2023
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: Rather not say; Textbook: Yes
+Review: He's pretty chill but fair. YOU NEED TO GO TO CLASS pretty much every day, There are 15 quizzes a semester and he doesn't always give warnings. The quizzes = changed homework problems. If you're willing to study an hour - two before most classes (the class is always late w him so u prob have a break anyways) for the quizz, youll do well.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 37
+Class: CSCI72400
+Quality Score: 5.0
+Difficulty: 3.0
+Date of Review: Jun 4th, 2023
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: A-; Textbook: Yes
+Review: Prof Schweitzer is extremely fair and a very caring guy. If you email him for help, he will respond back to you and try to answer your questions the best way that he can. His exams, quizzes, and homework assignments are straightforward. The material itself, however, is confusing. In my eyes, he's the gem of Hunter's Comp Sci department.
+Likes: 1
+Dislikes: 2
+
+--------------------------------------------------------------------------------
+
+Review 38
+Class: CS150
+Quality Score: 3.0
+Difficulty: 5.0
+Date of Review: May 23rd, 2023
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: Not sure yet; Textbook: Yes
+Review: The quizzes are based entirely on the homework. I would recommend reading the textbook ahead of the lecture otherwise you're not going to understand a single thing. The pop quizzes were nerve-wracking but fair and makeup 50% of the grade. Discrete is hard regardless of the professor but at least he seems like he wants students to pass.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 39
+Class: CSCI150
+Quality Score: 3.0
+Difficulty: 5.0
+Date of Review: May 22nd, 2023
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: Not sure yet; Textbook: Yes
+Review: Theres no dodging cs150. If you get Eric class will be tough. None of it is hard its just ez to fall behind. Dont fall behind. Eric is actually a nice guy, but the class i just really tough. Do well on the earlier quizzes, do hw, and really make sure you understand all kinds of proofs. Eric's a good guy, cs150 is just a serious pain.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 40
+Class: CS150
+Quality Score: 4.0
+Difficulty: 3.0
+Date of Review: May 3rd, 2023
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: Not sure yet; Textbook: Yes
+Review: Eric really isn't that bad, the quizzes are tricky sometimes but only 10/15 count. He does emphasize often that the key doing well on them is doing the homework and understanding the material, and given the class size 100% you're gonna self learn. Discrete itself isn't easy, but If you actually put in the effort, you probably won't get a bad grade
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 41
+Class: CS15000
+Quality Score: 1.0
+Difficulty: 1.0
+Date of Review: Mar 24th, 2023
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: A+; Textbook: Yes
+Review: Schweitzer reads out of the textbook. There is nothing to gain from his lectures, but a lot to lose as 50% of the grade is from pop quizzes. (This is how he gets his audience.) He also reminds me of the zero property of real numbers: Like n + 0 = n, the textbook + Schweitzer = the textbook. Rearrange this equation and you have Schweitzer = 0. QED
+Likes: 3
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 42
+Class: CS265
+Quality Score: 5.0
+Difficulty: 1.0
+Date of Review: Sep 28th, 2022
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: A-; Textbook: Yes
+Review: My favorite prof! Has lots of good jokes to share with the class all the time. Very helpful when students ask him for help. His class in general is fun. The quizzes are thrilling and if you do good on the quizzes, the final will be thrilling too
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 43
+Class: CS265
+Quality Score: 2.0
+Difficulty: 5.0
+Date of Review: Jun 22nd, 2022
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: C; Textbook: Yes
+Review: Gives 15 pop quizzes. Don't skip! READ THE TEXTBOOK AND DO THE HW PROBLEMS!!!!!!!!! They're not mandatory/collected, but the quizzes are based off them. This will make the difference between you failing or passing. Took him twice and passed because I read the textbook and did the homework. Don't bother trying to avoid him as he always teaches 265.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 44
+Class: CS265
+Quality Score: 5.0
+Difficulty: 2.0
+Date of Review: May 31st, 2022
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: A-; Textbook: Yes
+Review: Was pretty good. Gave 15 quizzes which were all ez if u kept up with the textbook and only highest 10 counted. Final was a bit tougher. Quizzes were concept based 95% of the time, while the final was about 50% proofs and 50% concepts. As expected, class did awful in final, but he gave a huge curve to make up for it. His lectures are useless tho
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 45
+Class: CS265
+Quality Score: 3.0
+Difficulty: 3.0
+Date of Review: May 30th, 2022
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: B; Textbook: Yes
+Review: This is a review for CS 265. His quizzes and lectures are based on the readings. If you read the textbook, you'll be able to follow along easily. My only mistake was that I didn't take advantage of the easier material early on in the class and couldn't catch up later on. Other than that, he's not bad and will answer your questions.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 46
+Class: CS265
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: May 16th, 2022
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Grade: B; Textbook: Yes
+Review: This professor should have been a clown instead of an instructor. His teaching was pretty bad and couldn't portray the learning well enough to his students. This is a self learn class. Just read the textbook or go to tutoring and take the quizzes. Get ready to learn and good luck!!
+Likes: 2
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 47
+Class: CS265
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: May 5th, 2022
+Additional Details: For Credit: Yes; Attendance: Mandatory; Grade: Not sure yet; Textbook: Yes
+Review: If you read the textbook and do the homework problems, you will be fine. He plucks his material from there. With that being said, he's not the friendliest Professor and I made the mistake of asking him for assistance. It's best to figure it out yourself. The TAs are not sincere either. This is the nicest possible review that I can write.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 48
+Class: CSCI150
+Quality Score: 4.0
+Difficulty: 3.0
+Date of Review: Apr 28th, 2022
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: B-; Textbook: Yes; Online Class: Yes
+Review: He was not that bad. You just had to study for the quizzes, most of which are light and more like a fun puzzle than a quiz.
+Likes: 0
+Dislikes: 3
+
+--------------------------------------------------------------------------------
+
+Review 49
+Class: CS265
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Dec 27th, 2021
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: No; Grade: C+; Textbook: Yes
+Review: Although he is a jubilant guy, teaching is not his forte. I wish professors were competent enough to portray the learning information to their students. College is a swindle where the student gets scammed paying for classes where they don't even learn stuff. I wish this school could hire competent professors.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 50
+Class: CSCI265
+Quality Score: 2.0
+Difficulty: 5.0
+Date of Review: Dec 26th, 2021
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: No; Grade: A-; Textbook: Yes
+Review: The entire class was just him rewriting the textbook. Quizzes sometimes were similar to the homework and sometimes weren't. Skipping class to study material by myself seemed to work out, wish I'd've done this sooner. Tutoring was honestly better than his lectures. Atleast he curved my 77 (final grade) to an A-
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 51
+Class: CSCI267
+Quality Score: 5.0
+Difficulty: 3.0
+Date of Review: Dec 13th, 2021
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: B; Textbook: No
+Review: Really cool professor, passionate about the subject. He is very nice and funny and the end of class that requires building is actually fun. The only issue is the midterm which is hard to prepare for, some students are able to get high grades though.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 52
+Class: CSCI150
+Quality Score: 3.0
+Difficulty: 3.0
+Date of Review: May 29th, 2021
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: A; Textbook: Yes; Online Class: Yes
+Review: Do the Homework problems, and you will be fine; no need to go to the lecture. Eric is a tough grader, and his quizzes/exams are not the easiest.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 53
+Class: CSCI150
+Quality Score: 5.0
+Difficulty: 4.0
+Date of Review: May 22nd, 2021
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: B; Textbook: Yes; Online Class: Yes
+Review: Mr. Schweitzer is huge on quizzes. Thats the only way he grades, a quiz practically every class day. Textbook reading is essential. The hardest part about this class is the time he gives us to do the quizzes. He expects us to print out a pdf, write out answers, scan the paper and then upload it as a pdf, all within 10 minutes. Beware.
+Likes: 0
+Dislikes: 4
+
+--------------------------------------------------------------------------------
+
+Review 54
+Class: CSCI150
+Quality Score: 4.0
+Difficulty: 4.0
+Date of Review: May 6th, 2021
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: Not sure yet; Textbook: Yes; Online Class: Yes
+Review: He looks tough but he's a fair grader. The class itself is hard but he gives a good curve. He's funny and well educated on the material. If you read the textbook and practice the homework you'll be fine.
+Likes: 1
+Dislikes: 6
+
+--------------------------------------------------------------------------------
+
+Review 55
+Class: CSCI150
+Quality Score: 5.0
+Difficulty: 4.0
+Date of Review: May 4th, 2021
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: A+; Textbook: Yes; Online Class: Yes
+Review: Professor Eric Schweitzer is a blessing. He makes discrete structures so easy and I feel prepared to major in computer science. If you cannot print, scan, and submit a pop-quiz in 10 minutes, then I don't know what to tell you. Would give this professor an 100 if I could.
+Likes: 0
+Dislikes: 5
+
+--------------------------------------------------------------------------------
+
+Review 56
+Class: CSCI150
+Quality Score: 1.0
+Difficulty: 3.0
+Date of Review: May 2nd, 2021
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Grade: Not sure yet; Textbook: Yes; Online Class: Yes
+Review: This guy is a fine teacher (although you won't need him if you read the book), but his grading is horrible. You never know what form you need to give the answer in (sometimes it matters, sometimes it does not... and you can get different grade for answer to the same question at two different times). Pretty useless, anxiety inducing class.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 57
+Class: CSCI150
+Quality Score: 2.0
+Difficulty: 2.0
+Date of Review: Mar 18th, 2021
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Textbook: Yes; Online Class: Yes
+Review: Idiosyncratic man. We have no tests, only pop quizzes that he likes to taunt us with to "keep us on our toes." If you don't write the answer exactly the way he wants to see it, you get zero points. No such thing as partial credit. He has no sympathy or leeway for his students in the COVID era. He is funny-ish though, and the quizzes aren't hard
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 58
+Class: CSCI150
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Mar 10th, 2021
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Grade: Not sure yet; Textbook: Yes; Online Class: Yes
+Review: This man is the worst professor to be teaching this topic. He gives "surprise" quiz like we are a high school student. His handwriting is borderline graffiti. To you who are reading, I am sure you have no choice but to take him. I just wish you the best of luck, you can pass but you will be in pain & stressed through out the semester. Plz retire.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 59
+Class: CS150
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Mar 10th, 2021
+Additional Details: Attendance: Mandatory; Would Take Again: No; Grade: Drop/Withdrawal; Textbook: Yes; Online Class: Yes
+Review: I had to drop out because he is so outdated. We have do print, fill, scan and upload a pdf all within 10 minutes DURING A PANDEMIC. Take this class in another school if you can.
+Likes: 2
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 60
+Class: CSCI150
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Mar 1st, 2021
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: No; Textbook: Yes; Online Class: Yes
+Review: He gives pop quizzes with 10 mins to complete/upload. Doesn't matter if you know all the material, its almost impossible to submit on time. Doesn't answer email and avoids answering students. He takes no responsibility for his inadequacies.. Lots of self teaching. bad handwriting. He uses autograders which don't work 100% so you do bad. 0/0
+Likes: 3
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 61
+Class: CSCI150
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Feb 19th, 2021
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: No; Grade: Not sure yet; Textbook: Yes; Online Class: Yes
+Review: - NO EXAMS TWENTY POP QUIZZES. - PDF POP QUIZZES 10 MIN EACH WITH 3 MIN PRINT-WRITE-UPLOAD TIME (TIME NONNEGOTIABLE AMID A PANDEMIC). - POP QUIZZES AUTOGRADED BY GRADESCOPE. - ONE UNIT/TXTBOOK CHAPTER PER CLASS. HIS WIFI GOES OUT AND ITS FINE BUT WHAT IF OUR WIFI GOES OUT DURING A QUIZ!!!
+Likes: 7
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 62
+Class: CS150
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Sep 29th, 2020
+Additional Details: For Credit: Yes; Would Take Again: No; Grade: A; Textbook: Yes
+Review: I don't know how anyone can give him a good review. His class was a nightmare. Dealing with him is a nightmare. He never responds to emails, assigns random questions as homework on topics that were not covered in class and will not be tested on the exam.
+Likes: 3
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 63
+Class: CS150
+Quality Score: 5.0
+Difficulty: 1.0
+Date of Review: Aug 25th, 2020
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: F; Textbook: Yes
+Review: He is the best teacher. Will make sure you have an easy time, and is really chill. Works with students and wants everyone to pass. Greatest teacher of all time.
+Likes: 1
+Dislikes: 7
+
+--------------------------------------------------------------------------------
+
+Review 64
+Class: CS150
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Jun 11th, 2020
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: No; Textbook: Yes
+Review: you probably have to take him but honestly prepare to be disappointed in him. He thinks he's funny and he's not, his lectures are pointless other than for taking his random quizzes and also be prepared to fail most of the tests when I had him class average was a 40. you'll have two tests that are your entire grade so good luck in this class.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 65
+Class: CSCI150
+Quality Score: 3.0
+Difficulty: 5.0
+Date of Review: May 30th, 2020
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Grade: B-; Textbook: Yes
+Review: He is a funny Professor but I just can't with his course. I learned from the book and slept through his class. Doing homework helps understand the work. Exams were not exactly hard if your concept is clear, but the main issue is the time that is not close to being enough. But he was kind enough to curve our grades and save our GPA.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 66
+Class: CS150
+Quality Score: 1.0
+Difficulty: 4.0
+Date of Review: May 27th, 2020
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Grade: B-; Textbook: Yes
+Review: No point of attending lectures. Everything he teaches can be studied through the textbook. No point in asking questions during lectures. He doesn't answer them directly but rather reiterates the point he made during the lecture. Some of the questions from the midterm and final are not based on the homework assignment.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 67
+Class: CSCI150
+Quality Score: 2.0
+Difficulty: 4.0
+Date of Review: May 27th, 2020
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Textbook: Yes
+Review: Lectures were terrible, you might as well teach yourself the material, doesn't tell you what's on the test or prepare you, if your answers are correct on the test but not the way he wants them he takes points off. Very harsh grader do yourself a favor and don't take him.
+Likes: 2
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 68
+Class: CS150
+Quality Score: 1.0
+Difficulty: 4.0
+Date of Review: May 26th, 2020
+Additional Details: For Credit: Yes; Would Take Again: No; Grade: A; Textbook: Yes
+Review: I got an A and I Hated it! Was miserable and stressed the whole semester! Do not take him!
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 69
+Class: CSCI150
+Quality Score: 1.0
+Difficulty: 4.0
+Date of Review: May 25th, 2020
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Grade: C-; Textbook: Yes; Online Class: Yes
+Review: His notes are messy and his lecturing style is unmemorable; he has a grading rubric for exams but will not accommodate students who notice mistakes in applying the rubric. He seems to take personal offense to it.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 70
+Class: CSCI150
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: May 21st, 2020
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Textbook: Yes; Online Class: Yes
+Review: He does NOT care about his students. This class was a nightmare. He cared more about the possibility of cheating than us actually understanding the material. Administered 6-question quizzes with 5-minute timers, refused to even hint at what his exams would focus on, provided terrible last minute review classes, I self taught myself everything.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 71
+Class: CS150
+Quality Score: 1.0
+Difficulty: 4.0
+Date of Review: May 18th, 2020
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Textbook: Yes
+Review: If you love yourself, please don't take any class with him. You'll save yourself from a semester or more of stress.
+Likes: 2
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 72
+Class: CSCI150
+Quality Score: 3.0
+Difficulty: 4.0
+Date of Review: May 13th, 2020
+Additional Details: For Credit: Yes; Would Take Again: No; Textbook: Yes
+Review: He's not that bad. Yes, it's still a difficult class but it is do-able. You are probably better off taking the initiative of studying on your own using the textbook and using the lectures as more of a supplementary. Do lots of practice problems and you should be, more or less, okay.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 73
+Class: CS15000
+Quality Score: 1.0
+Difficulty: 3.0
+Date of Review: Apr 24th, 2020
+Additional Details: For Credit: Yes; Would Take Again: No; Textbook: Yes
+Review: You can count on Prof Shweitser to always be there to trick you, surprise you with a quiz, and make it clear for you that he just does not care. Awful teacher. And yes, you can learn everything from the textbook, just not how this guy can look himself in the eyes after doing so wrong by the students.
+Likes: 2
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 74
+Class: CS150
+Quality Score: 1.0
+Difficulty: 3.0
+Date of Review: Apr 23rd, 2020
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Textbook: Yes
+Review: whatever class you want to take that he is teaching - wait till the next semester and hopefully another professor will teach that class. You will do yourself a huge favor! This guy can't even figure out how to administer a quiz via Blackboard - it's truly ironic he is in the CS Department.
+Likes: 2
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 75
+Class: CSCI15000
+Quality Score: 1.0
+Difficulty: 3.0
+Date of Review: Apr 22nd, 2020
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Textbook: Yes
+Review: Do yourself a favor and just take the class in another school and come back when you get the credit.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 76
+Class: CS150
+Quality Score: 1.0
+Difficulty: 3.0
+Date of Review: Apr 20th, 2020
+Additional Details: For Credit: Yes; Would Take Again: No; Textbook: Yes
+Review: RUN, don't walk. He's bad.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 77
+Class: CS150
+Quality Score: 1.0
+Difficulty: 3.0
+Date of Review: Apr 18th, 2020
+Additional Details: For Credit: Yes; Would Take Again: No; Textbook: Yes
+Review: Seems to have no idea on How to teach, isn't interested in students mastering the material- just goes through the motion... extremely dull and unhelpful lectures. Doesn't welcome feedback, ignores requests, doesn't respond to emails, makes no effort to re-explain difficult concepts. Avoid at all costs - he'll make the semester miserable for you.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 78
+Class: CS150
+Quality Score: 1.0
+Difficulty: 4.0
+Date of Review: Apr 17th, 2020
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Grade: Not sure yet; Textbook: Yes
+Review: All the bad rewievs are true. he is The worst Ive ever had. his lectures are useless. he does not prepare for the exam(which is 70% of the grade) - refused to give us practice test even though everyone was asking him. The reason many students struggle with this class is HIM, not the material (which is challanging).
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 79
+Class: CSCI1
+Quality Score: 1.0
+Difficulty: 3.0
+Date of Review: Apr 14th, 2020
+Additional Details: For Credit: Yes; Would Take Again: No; Textbook: Yes
+Review: Bad
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 80
+Class: CS150
+Quality Score: 1.0
+Difficulty: 4.0
+Date of Review: Apr 13th, 2020
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Grade: Not sure yet; Textbook: Yes
+Review: He is bad as can be. All he cares about is how easy for him to grade. Bad with technology, doesnt want to learn - stuck in the past century. Was Very unhelpful and Not understanding during coronavirus- only makes it more difficult for the students to get a good grade or even figure out How he is grading. All he cares is to not be bothered. Sad.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 81
+Class: CS340
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Dec 5th, 2019
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Textbook: Yes
+Review: Just do not take him. He is by far the worst when it comes to dealing with students in Hunter. Opionated and unreasonable
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 82
+Class: CSCI150
+Quality Score: 1.0
+Difficulty: 4.0
+Date of Review: Nov 24th, 2019
+Additional Details: Attendance: Mandatory; Would Take Again: No; Textbook: Yes
+Review: His lectures are extremely boring. Homework is easy, but he doesnt prepare you for the test(70% of the grade) Im really glad TAs are taking notes and we have a decent textbook. Hes the only one whos teaching this class, and it takes place in a huge auditorium with about 100 students. Hunter doesnt invest in csci department at all.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 83
+Class: CSCI1500
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Nov 10th, 2019
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: No; Grade: B; Textbook: Yes
+Review: Maybe this is due to to the environment that the class was being held... But, his lectures are hard to follow. His handwriting is hard to read and he goes through the lecture too quickly. There's times where he even miss some students with questions. (Again, maybe b/c of the environment we have to be in). Funny guy... But not the greatest lecturer.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 84
+Class: CS160
+Quality Score: 5.0
+Difficulty: 3.0
+Date of Review: Oct 15th, 2019
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: Yes; Grade: A; Textbook: Yes
+Review: Enjoyed his lectures very much. His material delivery is awesome, loaded with jokes. So long as you do your reading and prepares for quizzes and tests, you'll be golden. Overall - terrific professor.
+Likes: 1
+Dislikes: 3
+
+--------------------------------------------------------------------------------
+
+Review 85
+Class: CSCI16000
+Quality Score: 4.0
+Difficulty: 3.0
+Date of Review: May 25th, 2019
+Additional Details: For Credit: Yes; Attendance: Mandatory; Would Take Again: Yes; Grade: B+; Textbook: Yes
+Review: Great professor but do expect to do your homework entirely on time if you would like to pass this class with a good grade.
+Likes: 0
+Dislikes: 2
+
+--------------------------------------------------------------------------------
+
+Review 86
+Class: CSCI150
+Quality Score: 4.0
+Difficulty: 4.0
+Date of Review: Nov 29th, 2016
+Additional Details: For Credit: Yes; Would Take Again: Yes; Grade: B+; Textbook: No
+Review: Weekly quizzes. this is a good thing. At the end of the semester everyone begs for more quizzes. The quizzes are progress reports, if you do good in the quizzes, you will do good on the tests. If you dont, you know exactly where you messed up, and where to catch up. He gets more flak than necessary, for CSCI 150, hes absolutely a solid choice
+Likes: 4
+Dislikes: 4
+
+--------------------------------------------------------------------------------
+
+Review 87
+Class: CSCI150
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Oct 24th, 2016
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: No; Textbook: Yes
+Review: Funny and enthusiastic professor, but terrible at teaching. Pop quizzes every week.
+Likes: 2
+Dislikes: 2
+
+--------------------------------------------------------------------------------
+
+Review 88
+Class: CSCI150
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Aug 2nd, 2016
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: No; Textbook: No
+Review: Terrible professor.
+Likes: 3
+Dislikes: 4
+
+--------------------------------------------------------------------------------
+
+Review 89
+Class: CS150
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Jun 14th, 2016
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Would Take Again: No; Grade: F; Textbook: Yes
+Review: I wish he could get a degree in education first. He's lecture style is "repeat exactly what textbook says".
+Likes: 3
+Dislikes: 5
+
+--------------------------------------------------------------------------------
+
+Review 90
+Class: CSC340
+Quality Score: 4.5
+Difficulty: 5.0
+Date of Review: Dec 17th, 2015
+Additional Details: For Credit: Yes; Attendance: Not Mandatory; Textbook: Yes
+Review: you will learn but your GPA will suffer, take him (for classes that matter aka OS)
+Likes: 4
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 91
+Class: CS265
+Quality Score: 5.0
+Difficulty: 2.0
+Date of Review: May 22nd, 2014
+Additional Details: Attendance: Mandatory; Grade: B; Textbook: Yes
+Review: Great professor if you work hard and don't expect an easy grade. Very decent curve, but you need to work hard and be on your ass to learn. You will know the subject in the back of your head. He will set extra time to help you if needed, he isn't even getting paid for that he is a great guy!
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 92
+Class: CSCI340
+Quality Score: 5.0
+Difficulty: 3.0
+Date of Review: Mar 23rd, 2014
+Additional Details: Attendance: Mandatory; Grade: C; Textbook: Yes
+Review: Schweitzer is one of those professors who is so lovable and clearly shows a passion for what he's teaching...is he hard? Yes...but you will learn in the end! ignore the negative rants!
+Likes: 2
+Dislikes: 3
+
+--------------------------------------------------------------------------------
+
+Review 93
+Class: CSCI340
+Quality Score: 3.5
+Difficulty: 5.0
+Date of Review: Jan 29th, 2014
+Additional Details: Attendance: Mandatory; Textbook: Yes
+Review: Knowledgeable and a decent lecturer. Exams are very hard and based mostly on the text. However, one or two questions (out of 8 questions) are based on something he mentioned in class so attendance and note taking is necessary. His programming assignments are not clear so asking questions and starting early is recommended. Harsh grader/high curve.
+Likes: 2
+Dislikes: 2
+
+--------------------------------------------------------------------------------
+
+Review 94
+Class: CSCI340
+Quality Score: 5.0
+Difficulty: 4.0
+Date of Review: Jan 19th, 2013
+Additional Details: Textbook: No
+Review: A really great professor, but be prepared to work. Attendance is not mandatory in that he does not keep track of it, but it is mandatory unless one already knows all the material, otherwise one will not pass. Not very by-the-book, but it is crucial to do the homework (again unless you already know what you're doing). Overall a great professor.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 95
+Class: CSCI265
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Mar 7th, 2012
+Additional Details: Textbook: No
+Review: Seriously this proffessor, 40% of your grades is based on ten get this TEN 10 point quizzes given at random throughout the semester. Sure you might think it might be easy enough but he goes out of his god*amn way to purposely trick you. You will not get an A this class every single quiz he throws some bull*hit sucker question.
+Likes: 4
+Dislikes: 2
+
+--------------------------------------------------------------------------------
+
+Review 96
+Class: CSCI340
+Quality Score: 1.5
+Difficulty: 5.0
+Date of Review: May 16th, 2011
+Additional Details: Textbook: No
+Review: He does give HW but he won't grade it, so u will not earn any credit from it. HWs are not helpful to the exams. What's the point for doing it? No quiz. All u can work for credits are 3 projects and a paper. u will have ask 1000 questions before or while doing it. Otherwise, he will take off heavy points on silly stuff. All he expects is a perfect program, even though he doesn't know programming. There's 1 midterm and the final exam.
+Likes: 2
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 97
+Class: CSCI120
+Quality Score: 5.0
+Difficulty: 4.0
+Date of Review: Jun 17th, 2010
+Additional Details: Textbook: Yes
+Review: Interesting class if you're curious about computers. Really knowledgeable and helpful. Has a lot of funny and odd stories. Gave us 4 HW's, along with a midterm and final. Although the midterm and final were hard (no review or review sheets) he's a more than fair grader. Just don't take him and expect an easy 'A', you definitely have to work for it
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 98
+Class: CSCI127
+Quality Score: 4.0
+Difficulty: 4.0
+Date of Review: May 25th, 2010
+Additional Details: Textbook: Yes
+Review: Extremely helpful! Class can be difficult if you come into without a background in cs, but he will provide as much help as you ask for!
+Likes: 0
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 99
+Class: CSCI340
+Quality Score: 4.5
+Difficulty: 4.0
+Date of Review: May 5th, 2010
+Additional Details: Textbook: Yes
+Review: CSCI students should ignore the angry rants of freshmen that think 120/127 will be about using Word. Schweitzer is one of the best lecturers in the dept. and he is very helpful. There's little he doesnt know about OSs and hardware. Not an easy class, but you'll learn a lot if u do the work. Tests and HW are very difficult, but his curve is fair.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 100
+Class: CSI127
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: May 29th, 2009
+Additional Details: Textbook: No
+Review: The worst professor I had at Hunter College. I seriously have no idea why people gave him any positive feedback. It's probably those suck ups that knew everything in the class, because this dude does teach ANYTHING. The 40% of the Final did not reflect any of the material we learned in class or in the textbook. NEVER reviewed for any of the tests!
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 101
+Class: CSCI127
+Quality Score: 2.5
+Difficulty: 5.0
+Date of Review: May 29th, 2009
+Additional Details: Textbook: No
+Review: BAD, BAD, BAD. His final is disgustingly difficult, (due to the fact that he gives you hilariously easy quizzes to trick you) Also, He wants you to write C++ programs BEFORE he teaches you...not that he bothers to teach you anyway. When you get an A in organic chemistry and you get a C in computer science, something doesn't match up.
+Likes: 2
+Dislikes: 2
+
+--------------------------------------------------------------------------------
+
+Review 102
+Class: CSCI127
+Quality Score: 5.0
+Difficulty: 3.0
+Date of Review: May 25th, 2009
+Additional Details: Textbook: No
+Review: He's a cool professor. Makes everything sound easy and interesting. He gives 15 quizzes and takes best 10 out of them. He will also give you 3 major homework assignments. Take him!
+Likes: 2
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 103
+Class: CSI120
+Quality Score: 1.5
+Difficulty: 5.0
+Date of Review: Dec 8th, 2008
+Additional Details: Textbook: No
+Review: Alright, i went to this site to check out what this professor was gonna be like...and let's just say I made a HUGE mistake not listening to these guys...wanna pass his class? expect to learn it yourself, translate it into his language, hope you do the difficult HW exactly how he wants them, aand pray, alot. BTW very tricky exams. AVOID him.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 104
+Class: CSCI120
+Quality Score: 1.5
+Difficulty: 4.0
+Date of Review: Dec 2nd, 2008
+Additional Details: Textbook: No
+Review: I don NOT recommend you to take his class! I had 1 mid term, 1 final, and 3 meaningless homework. Exams were so hard. And he has own opinions about a computer, so he ignores what a textbook sais. That made me got confused. He is nice person,but not a great professor.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 105
+Class: CSCI340
+Quality Score: 5.0
+Difficulty: 1.0
+Date of Review: May 29th, 2008
+Additional Details: Textbook: No
+Review: Very good professor. He makes the boring material much less so, curves the exam grades, and if you submit a programming assignment before the due date, he will grade it as if it were a draft and let you resubmit if there are any mistakes.
+Likes: 2
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 106
+Class: CS120
+Quality Score: 2.0
+Difficulty: 5.0
+Date of Review: May 9th, 2008
+Additional Details: Textbook: No
+Review: Don't take this course with him! I really don't recommend you to take his class. 1 mid-term, 1 final, and 3 CRAZY homework. He does not give any extra credits. Only thing what I learned was that he loves coffee.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 107
+Class: CSCI127
+Quality Score: 1.0
+Difficulty: 1.0
+Date of Review: Nov 13th, 2007
+Additional Details: Textbook: No
+Review: Why is this guy teaching in a college? He knows nothing. His assignments are out of materials supplied by the publisher of the text. He is arrogant and uber-stale
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 108
+Class: OPSYS300
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Jul 23rd, 2007
+Additional Details: Textbook: No
+Review: This professor is horrible. His favorable reviews were most likely written by himself. He has zero real-world experience so how can other reviewers say he does? If you teach the SAME EXACT material for 3 decades, of course you're going to know it cold. Puts too much emphasis on obsolete ideas. Wants you to re-invent the wheel with projects.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 109
+Class: CSCI340
+Quality Score: 2.0
+Difficulty: 4.0
+Date of Review: May 7th, 2007
+Additional Details: Textbook: Yes
+Review: No Comments
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 110
+Class: CSI127
+Quality Score: 4.5
+Difficulty: 3.0
+Date of Review: Feb 19th, 2007
+Additional Details: Textbook: Yes
+Review: This guy knows his stuff. A lot of experience, demonstrates as best as he is able to, and teaches well. Dont make the mistake of not taking notes in class. Lectures are KEY. Kind of funny, very dorky. Nice guy, will help you if you just ask and demonstrate effort.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 111
+Class: CSCI127
+Quality Score: 5.0
+Difficulty: 2.0
+Date of Review: Jan 22nd, 2007
+Additional Details: Textbook: Yes
+Review: Not that hard, actually. He asked us if we had any questions a lot. Made it easy to understand everything.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 112
+Class: INTRO127
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Nov 29th, 2006
+Additional Details: Textbook: No
+Review: Horrible teacher. The worst by far. Goes way to fast, doesn't explain anything. I always had an interest in the field of Computer but after taking his class, I totally lost all of it. DO NOT TAKE!!!
+Likes: 1
+Dislikes: 2
+
+--------------------------------------------------------------------------------
+
+Review 113
+Class: CSCI127
+Quality Score: 5.0
+Difficulty: 5.0
+Date of Review: Nov 14th, 2006
+Additional Details: Textbook: Yes
+Review: I really love this class. I think everyone in my section does. He explains things in a down to earth fun way that helps you understand the material. I don't know what the rest of you are saying. I've never learned so much in a class from a teacher. And his stories are great, too. Tough quizzes though... I hope his final is manageable.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 114
+Class: CSCI127
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Aug 23rd, 2006
+Additional Details: Textbook: No
+Review: he doesnt really know what he wants from you. he says one thing, but expects you to understand some other things. unless you're able to get under his whimsical moods, then you're not going to do well on the class.
+Likes: 1
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 115
+Class: CSCI145
+Quality Score: 2.0
+Difficulty: 5.0
+Date of Review: May 25th, 2006
+Additional Details: N/A
+Review: You do all the hw, go to every lecture (pop quizes so you have to) and what happens? you fail many anyway!-semester is over and i feel like I was graded unfairly,the material is hard and he uses it to his full advantage, making it impossible to do better than pass the class.think twice about taking him-really is a sadist,the shirt he wears is true
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 116
+Class: CSCI127
+Quality Score: 4.5
+Difficulty: 3.0
+Date of Review: May 11th, 2006
+Additional Details: N/A
+Review: Come on! He's a cool guy! Tough grader - yes. But he knows his subject very well. If you don't understand smth just come up to computer science department and talk to him about your "not understanding". I bet he'll be glad to explain... so don't complain! P.S. The test are hard though
+Likes: 0
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 117
+Class: CSCI340
+Quality Score: 2.5
+Difficulty: 4.0
+Date of Review: Apr 9th, 2006
+Additional Details: N/A
+Review: The subject is supposed to be interesting but his lectures are very boring. He always says something no one knows without first explaining the stuffz. Although his projects will help you to understand the subject, you will need to study on your own to learn.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 118
+Class: CSC340
+Quality Score: 2.0
+Difficulty: 5.0
+Date of Review: Dec 22nd, 2005
+Additional Details: N/A
+Review: This cofee loving hippie gives very hard tests and he is pretty strict when grading the programming assignments as well. I didn't learn much from his lectures, he goes through the material really quick and jumps between different subjects leaving everybody confused.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 119
+Class: CSCI340
+Quality Score: 2.0
+Difficulty: 4.0
+Date of Review: Jun 6th, 2005
+Additional Details: N/A
+Review: Tough Exams. Read the book and do the homeworks If you want to pass.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 120
+Class: CS120
+Quality Score: 3.0
+Difficulty: 4.0
+Date of Review: Jun 2nd, 2005
+Additional Details: N/A
+Review: ALthough you have 2-3 homeworks that count for 40% his exams are very HARD.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 121
+Class: COMPSCI120
+Quality Score: 2.5
+Difficulty: 3.0
+Date of Review: May 27th, 2005
+Additional Details: N/A
+Review: He's a really sweet guy and he knows his stuff but just can't get it across the right way to students. he says he doesn't follow the book but when u get the test, guess what? Tons of stuff from the book! Don't depend on taking notes b/c he only writes a couple of words & then tells a story. I dunno, its a toss-up.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 122
+Class: CS340
+Quality Score: 4.0
+Difficulty: 4.0
+Date of Review: Jan 13th, 2005
+Additional Details: N/A
+Review: He's funny and makes the subject interesting. As long as you read the book and do the work, you should do well in the class.
+Likes: 0
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 123
+Class: COMPSCI120
+Quality Score: 3.0
+Difficulty: 3.0
+Date of Review: Nov 30th, 2004
+Additional Details: N/A
+Review: Cool guy. He really tries to make the topic of computers interesting. If you are the type of student who wants to learn you will enjoy his style of teaching.
+Likes: 0
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 124
+Class: 340
+Quality Score: 1.5
+Difficulty: 3.0
+Date of Review: Nov 18th, 2004
+Additional Details: N/A
+Review: Boring!!!!!
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 125
+Class: CS120
+Quality Score: 1.0
+Difficulty: 1.0
+Date of Review: Oct 27th, 2004
+Additional Details: N/A
+Review: He's arguably funny, but a terrible teacher - I didn't learn a single thing in his class.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 126
+Class: CSCI340
+Quality Score: 4.5
+Difficulty: 3.0
+Date of Review: Sep 9th, 2004
+Additional Details: N/A
+Review: He's a really funny guy and has interesting stories. His programming projects are NOT well defined and you have to ask him 100 questions to see what he wants the program to do. If you do that then it will be rewarding to complete them.
+Likes: 0
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 127
+Class: CSCI340
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Jun 1st, 2004
+Additional Details: N/A
+Review: He is extremely boring and corny. If you are well groomed, smart and have a bright future: he will DISLIKE you. can be a tough grader: takes tons of points off for details that don't represent the bigger picture. He's a god*amned hippie!
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 128
+Class: 340
+Quality Score: 5.0
+Difficulty: 3.0
+Date of Review: Feb 25th, 2004
+Additional Details: N/A
+Review: Really nice guy, but a semi-tough grader. You will learn a lot from him... I should have gotten an A...but got a B... I still recommend him
+Likes: 0
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 129
+Class: CSCI127
+Quality Score: 3.0
+Difficulty: 3.0
+Date of Review: Dec 10th, 2003
+Additional Details: N/A
+Review: he's class was interesting at times. he didn't give any midterms but a quiz after every hw assignment. if you get a 9 or 10 on 10 quizzes, you don't have to take the final. he's a very nice and friendly guy.
+Likes: 0
+Dislikes: 0
+
+--------------------------------------------------------------------------------
+
+Review 130
+Class: CSCI120
+Quality Score: 3.5
+Difficulty: 3.0
+Date of Review: Dec 3rd, 2003
+Additional Details: N/A
+Review: he's not that bad! maybe boring - but how fun can comp sci be? he's corny, but tries to be funny and social. the class is not a breeze, but it's not a punishment. do the readings and the test shouldn't be too hard.
+Likes: 0
+Dislikes: 1
+
+--------------------------------------------------------------------------------
+
+Review 131
+Class: CS340
+Quality Score: 1.0
+Difficulty: 5.0
+Date of Review: Oct 5th, 2003
+Additional Details: N/A
+Review: Nothing good about this guy. He can't program but expects you to know how to, is a total bore and drone, and when the class is over you will have learned nothing about operating systems that has the slightest resemblance to an operating system.
+Likes: 1
+Dislikes: 0
+
+--------------------------------------------------------------------------------
