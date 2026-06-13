@@ -9,9 +9,8 @@
 
 ## Domain
 
-Student reviews of Computer Science professors at Hunter College (CUNY), collected from Rate My Professors. This knowledge is valuable because official course catalogs and department pages describe *what* is taught, not how a professor actually grades, whether exams are curved, or how much self-teaching is required. RMP reviews capture recurring patterns — grading policies, workload, office hours, and "fail the final, fail the class" rules — that students only learn through word of mouth after the fact.
+Student reviews of Computer Science professors at Hunter College (CUNY), collected from Rate My Professors. This information is valuable because students often want to know what a professor’s class is actually like, including workload, teaching style, grading, exams, and how much self-study is needed. It is hard to find otherwise because official course listings only describe the class content, not the real student experience across different professors.
 
-**Document structure notes (from skimming):** Most sources are short, opinion-based reviews (1–5 sentences each) grouped by professor and course. Several professors appear across multiple courses (e.g., Ligorio for CSCI127/235, Shostak for CS260/340). Reviews often mention the same themes: accent/clarity, tutoring, exam difficulty, and grading breakdowns. This corpus is review-heavy, not long-form guides.
 
 ---
 
@@ -34,41 +33,27 @@ Student reviews of Computer Science professors at Hunter College (CUNY), collect
 
 ## Chunking Strategy
 
-<!-- How will you split documents into chunks?
-     State your chunk size (in tokens or characters), overlap size, and explain why those
-     numbers fit the structure of your documents.
-     A review-heavy corpus warrants different chunking than a long FAQ. -->
+**Chunk size:** One complete review per chunk (~250–500 characters of review text, plus structured metadata: professor name, course/class, quality/difficulty scores, and date). Not a fixed character split — each chunk is one `Review N` block from the source files.
 
-**Chunk size:**
+**Overlap:** 0 characters. Each review is a self-contained opinion; overlap would duplicate the same professor/course context across chunks without improving retrieval.
 
-**Overlap:**
+**Reasoning:** My corpus is review-heavy, not long guides. Skimming the documents showed that most reviews are 1–5 sentences (~311 characters on average across ~789 reviews). A fixed 500-character split would merge unrelated reviews or cut a grading-policy sentence in half. Chunking by review boundary keeps each embedding focused on one student's take on one course. Metadata (professor + class) is prepended to each chunk so retrieval can match queries like "Tong Yi CS135" even when the review body doesn't repeat the name. I expect ~750–800 chunks total across 10 documents, which fits the assignment's 50–2,000 chunk target.
 
-**Reasoning:**
+**Preprocessing before chunking:** Strip `Likes:` / `Dislikes:` lines and normalize whitespace. Keep professor, class, quality, difficulty, date, and review text.
 
 ---
 
 ## Retrieval Approach
 
-<!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
-     How many chunks will you retrieve per query (top-k)?
-     If you were deploying this for real users and cost wasn't a constraint, what tradeoffs
-     would you weigh in choosing a different embedding model — context length, multilingual
-     support, accuracy on domain-specific text, latency? -->
+**Embedding model:** `all-MiniLM-L6-v2` via `sentence-transformers` (runs locally, no API key).
 
-**Embedding model:**
+**Top-k:** 5 chunks per query. Enough context for the LLM to synthesize patterns across multiple reviews without flooding the prompt with loosely related professors.
 
-**Top-k:**
-
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** If cost were not a constraint, I would weigh: (1) **accuracy on short informal text** — general models like MiniLM handle reviews okay, but a model fine-tuned on Q&A or reviews might better match student phrasing; (2) **multilingual support** — some reviews mention accent/clarity and ESL students; a multilingual embedder (e.g., `multilingual-e5-large`) could help if the corpus mixed languages; (3) **context length** — less critical here since my chunks are short; (4) **latency vs. quality** — API-hosted models (OpenAI `text-embedding-3-large`, Cohere) may score higher on domain retrieval but add cost and network dependency; (5) **local vs. hosted** — MiniLM is fine for a class project demo, but production would need monitoring for drift and re-embedding when new reviews are added.
 
 ---
 
 ## Evaluation Plan
-
-<!-- List your 5 test questions with their expected correct answers.
-     Questions should be specific enough that you can judge whether the system's response
-     is right or wrong. "What are good dining halls?" is too vague.
-     "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
@@ -86,36 +71,63 @@ Student reviews of Computer Science professors at Hunter College (CUNY), collect
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. **Conflicting reviews for the same professor.** Tong Yi, Shostak, and others have both positive and negative reviews. Retrieval may return chunks that disagree, and the LLM could over-generalize or pick one side. Mitigation: prompt the model to summarize what reviews say rather than state a single fact; cite multiple sources.
 
-2.
+2. **Off-topic or joke reviews.** Some reviews are memes or rants with little factual content (e.g., "she helped my grandma cross the street"). Semantic search may still retrieve them if they share vague words with a query. Mitigation: include professor + class metadata in each chunk; optionally filter chunks below a similarity threshold.
+
+3. **Professor/course name mismatch.** Students refer to courses inconsistently (CS135 vs CSCI13500 vs CSCI135). A query using one format may miss reviews tagged with another. Mitigation: prepend normalized professor and class fields to every chunk at ingestion time.
 
 ---
 
 ## Architecture
 
-<!-- Draw a diagram of your pipeline showing the five stages:
-     Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
-     Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
-     You'll use this diagram as context when prompting AI tools to implement each stage. -->
+```mermaid
+flowchart LR
+    A["Document Ingestion\n(Python: load .txt from documents/)"]
+    B["Chunking\n(Python: split by Review block)"]
+    C["Embedding\n(sentence-transformers\nall-MiniLM-L6-v2)"]
+    D["Vector Store\n(ChromaDB\n+ source metadata)"]
+    E["Retrieval\n(top-k semantic search)"]
+    F["Generation\n(Groq llama-3.3-70b-versatile\n+ grounding prompt)"]
+    G["Query Interface\n(Gradio web UI)"]
+
+    A --> B --> C --> D --> E --> F --> G
+    G -->|"user question"| E
+```
+
+**Stage summary:**
+
+| Stage | Tool / library |
+|-------|----------------|
+| Document Ingestion | Python — read files from `documents/`, strip boilerplate |
+| Chunking | Python — one review per chunk with metadata prefix |
+| Embedding | `sentence-transformers` — `all-MiniLM-L6-v2` |
+| Vector Store | ChromaDB — persist embeddings + professor/source metadata |
+| Retrieval | ChromaDB similarity search — top-k = 5 |
+| Generation | Groq API — `llama-3.3-70b-versatile`, context-only prompt |
+| Interface | Gradio — question in, answer + sources out |
 
 ---
 
 ## AI Tool Plan
 
-<!-- For each part of the pipeline below, describe:
-     - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
-     - What you'll give it as input (which sections of this planning.md, which requirements)
-     - What you expect it to produce
-     - How you'll verify the output matches your spec
-
-     "I'll use AI to help me code" is not a plan.
-     "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
-     with my specified chunk size and overlap" is a plan. -->
-
 **Milestone 3 — Ingestion and chunking:**
+
+- **Tool:** Cursor (Claude)
+- **Input:** Documents table, Chunking Strategy section, Architecture diagram, and sample content from `documents/rmp_tong_yi.txt`
+- **Expected output:** A Python script (e.g., `ingest.py`) that loads all `.txt` files from `documents/`, cleans them, splits into one-review-per-chunk with metadata, and prints 5 sample chunks + total chunk count
+- **Verification:** Run the script; confirm each printed chunk is a complete review with professor name; confirm total chunks is between 50 and 2,000 (~750–800 expected); confirm no empty or HTML-artifact chunks
 
 **Milestone 4 — Embedding and retrieval:**
 
+- **Tool:** Cursor (Claude)
+- **Input:** Retrieval Approach section, Architecture diagram, and the chunk format produced by Milestone 3
+- **Expected output:** A script (e.g., `embed.py` / `retrieve.py`) that embeds chunks with `all-MiniLM-L6-v2`, stores them in ChromaDB with metadata (`source_file`, `professor`, `class`, `chunk_index`), and exposes a `retrieve(query, k=5)` function
+- **Verification:** Run retrieval on evaluation questions 1, 2, and 4; print returned chunks and distance scores; confirm top results mention the right professor/topic and distances are below ~0.5 on good matches
+
 **Milestone 5 — Generation and interface:**
+
+- **Tool:** Cursor (Claude)
+- **Input:** Grounding requirements from the assignment, Evaluation Plan questions, Architecture diagram, and Gradio skeleton from the README instructions
+- **Expected output:** An `ask(question)` function that retrieves chunks, calls Groq with a strict context-only system prompt, returns answer + source list; plus `app.py` Gradio UI wiring it together
+- **Verification:** Test 2–3 in-scope eval questions — answers cite source files and match retrieved text; test one out-of-scope question (e.g., Hunter dining halls) — system refuses rather than hallucinating
