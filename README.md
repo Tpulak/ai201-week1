@@ -41,15 +41,62 @@ Raw text files live in `documents/`. Ingestion is handled by `ingest.py`.
 
 **Final chunk count:** 792
 
-**Sample chunk** (from `rmp_eric_schweitzer.txt`):
+**Sample chunks** (one review per chunk, each from a different source document):
+
+**1. `rmp_tong_yi.txt`**
+
+```text
+Professor: Tong Yi
+Source: rmp_tong_yi.txt
+Class: CSCI135
+Quality: 3.0 | Difficulty: 4.0
+Date: May 28th, 2025
+Review: The Tong-yi hate can NOT be this bad. Sure her teaching ability is not the greatest, but I've had a few one on ones with her and it was really helpful. I was surprised by the amount of coding HW, labs, and projects that were assigned, but they were manageable. The only thing I don't agree with is the "fail the final, fail the class" policy.
+```
+
+**2. `rmp_eric_schweitzer.txt`**
 
 ```text
 Professor: Eric Schweitzer
 Source: rmp_eric_schweitzer.txt
 Class: CS265
+Quality: 4.0 | Difficulty: 4.0
+Date: Jun 13th, 2025
+Review: Schweitzer is fair. 15 quizzes (5 dropped) = 60%, final = 40%. HW mirrors quizzes. You can tell when a quiz is coming. Bad reviews come from ppl who skip or slack (even minimal effort = pass). Quiz avg is low but curved. Correct notation really matters.
+```
+
+**3. `rmp_pavel_shostak.txt`**
+
+```text
+Professor: Pavel Shostak
+Source: rmp_pavel_shostak.txt
+Class: CS340
+Quality: 3.0 | Difficulty: 3.0
+Date: Jun 11th, 2026
+Tags: Tough grader, Test heavy, Accessible outside class
+Review: Honestly just dont procrastinate and use the specific terms he highlights in class and you'll pass. Go to office hours he will help you drastically! And look at the textbook !!!!
+```
+
+**4. `rmp_ioannis_stamos.txt`**
+
+```text
+Professor: Ioannis Stamos
+Source: rmp_ioannis_stamos.txt
+Class: CSCI335
+Quality: 5.0 | Difficulty: 4.0
+Date: May 28th, 2026
+Review: Best professor for 335, helped a lot with his office hours and all. Exams were curved +20% on average, do your projects and homework and you'll do well :)
+```
+
+**5. `rmp_raj_korpan.txt`**
+
+```text
+Professor: Raj Korpan
+Source: rmp_raj_korpan.txt
+Class: CSCI499
 Quality: 2.0 | Difficulty: 4.0
-Date: May 25th, 2025
-Review: Not the best & not the worst. Class is entirely based on pop quizzes. There are 15 pop quizzes worth 60% of your grade, the lowest 5 get dropped. Final is worth 40% & based on quizzes...
+Date: Nov 9th, 2023
+Review: BEWARE! He does not let you pick groups, gives INDIVIDUAL assignments, and grades presentations VERY harshly. If you are not within 10 seconds of the presentation time limit, even if you are early, you will lose A LOT of points.
 ```
 
 ---
@@ -240,52 +287,75 @@ Open **http://localhost:7860** in your browser.
 
 ## Evaluation Report
 
-*(Full end-to-end eval with LLM responses — Milestone 6. Retrieval-only results for questions 1, 2, and 4 are documented above.)*
+End-to-end results from `app.py` / `ask()` on all 5 questions from `planning.md`.
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | Tong Yi CS135 grading policy | Fail the final, fail the class | *(M5 pending)* | Partially relevant | *(M6 pending)* |
-| 2 | Eric Schweitzer grade breakdown | 60% pop quizzes, 40% final | *(M5 pending)* | Relevant | *(M6 pending)* |
-| 3 | Pavel Shostak office hours | Helpful, go to office hours | *(M5 pending)* | *(not tested in M4)* | *(M6 pending)* |
-| 4 | Professor with generous exam curve | Ioannis Stamos | *(M5 pending)* | Off-target | *(M6 pending)* |
-| 5 | Raj Korpan CSCI499 complaints | Groups, presentations | *(M5 pending)* | *(not tested in M4)* | *(M6 pending)* |
+| 1 | What grading policy do students mention for Tong Yi's CS135 class? | Multiple reviews mention a "fail the final, fail the class" policy — failing the final fails the course even if other work is done. | Said doing HW/labs/attendance can help pass with a minimum passing final score; mentioned grades dropped on Christmas. Did **not** mention fail-the-final policy. Cited `rmp_tong_yi.txt`. | Partially relevant | Partially accurate |
+| 2 | How is Eric Schweitzer's grade broken down according to student reviews? | Pop quizzes ≈ 60% (often 15 quizzes, lowest 5 dropped); final ≈ 40%. | Correctly reported 60% pop quizzes for CSCI16000 and CS265 (15 quizzes, lowest 5 dropped, 40% final). Noted breakdown varies by class. Cited `rmp_eric_schweitzer.txt`. | Relevant | Accurate |
+| 3 | What do students say about going to Pavel Shostak's office hours? | Office hours are helpful and accessible; students recommend attending. | Reported "very good office hours," willing to answer questions, "HELPFUL, ACCESSIBLE PROF!" Cited `rmp_pavel_shostak.txt`. | Relevant | Accurate |
+| 4 | Which Hunter CS professor do reviews describe as having a generous exam curve? | Ioannis Stamos — generous curves (e.g. +20% on CS335), lenient/chill grader. | Incorrectly named **Pavel Shostak**, citing one review about curving the final in CSCI235. Stamos never mentioned. Cited `rmp_pavel_shostak.txt`. | Off-target | Inaccurate |
+| 5 | What complaints do students have about Raj Korpan's CSCI499 senior project course? | No group choice, individual assignments, harsh presentation time-limit grading. | Claimed students have **no complaints** and reviews are "very positive." Missed the negative CSCI499 review about groups and presentation grading. Cited `rmp_raj_korpan.txt`. | Partially relevant | Inaccurate |
+
+**Retrieval quality:** Relevant / Partially relevant / Off-target  
+**Response accuracy:** Accurate / Partially accurate / Inaccurate
+
+**Summary:** Questions 2 and 3 performed well end-to-end. Question 1 retrieved the right professor but missed the specific fail-final policy in the generated answer. Questions 4 and 5 failed — Q4 due to retrieval pulling the wrong professor's reviews, and Q5 because the model overlooked a clearly negative review that was in the source file.
 
 ---
 
 ## Failure Case Analysis
 
-**Question that failed:** `Which Hunter CS professor do reviews describe as having a generous exam curve?` (Eval question 4)
+### Failure 1 — Eval question 4 (retrieval + generation)
 
-**What the system returned:** Top 5 chunks were mostly **Pavel Shostak** reviews about tough grading and teaching style. **Ioannis Stamos** (who has multiple reviews mentioning generous curves) did not appear in the top 5.
+**Question that failed:** `Which Hunter CS professor do reviews describe as having a generous exam curve?`
 
-**Root cause (tied to a specific pipeline stage):** **Retrieval / embedding stage.** This is a cross-professor comparison query, but semantic search returns individually similar chunks, not a aggregated "best professor for X" answer. Shostak's corpus is large and contains many "grading" keywords in negative contexts, which scored closer to the query vector than Stamos's more specific curve language ("+20%", "huge curve"). The embedding model also does not know that "tough grader" and "generous curve" are opposites — it matches on shared exam/grading themes.
+**Expected:** Ioannis Stamos — multiple reviews mention generous exam curves (e.g. +20% on CS335).
 
-**What you would change to fix it:** (1) Include professor name in comparison queries at retrieval time; (2) retrieve more chunks (higher k) and dedupe by professor before generation; (3) add metadata filtering when the query implies a specific professor; (4) for "which professor" questions, use a two-step retrieve-then-rank-by-professor approach instead of pure top-k semantic search.
+**What the system returned:** *"According to rmp_pavel_shostak.txt, Professor Pavel Shostak is described as having a generous exam curve, as one review mentions 'he curves at the end' for the final exam in his CSCI235 class."*
+
+**Root cause (tied to a specific pipeline stage):** **Retrieval stage first, then generation.** Semantic search returned mostly Shostak reviews about grading (see Retrieval Test Results above — no Stamos in top 5). The LLM then answered from those excerpts and named the wrong professor. The embedding model matches shared "exam/grading" language without understanding that "tough grader" and "generous curve" are opposites. Cross-professor "which professor" questions are a poor fit for plain top-k semantic search.
+
+**What you would change to fix it:** Retrieve more chunks (higher k), group by professor, and rank professors by how many retrieved chunks mention the target concept; or use hybrid search with keywords like "curve" + "generous" + "lenient."
+
+---
+
+### Failure 2 — Eval question 5 (generation / selective use of context)
+
+**Question that failed:** `What complaints do students have about Raj Korpan's CSCI499 senior project course?`
+
+**Expected:** Reviews mention no group choice, individual assignments, and harsh presentation time-limit grading (`rmp_raj_korpan.txt`, Review 3).
+
+**What the system returned:** *"Students do not have any complaints… reviews are very positive"* — citing only the positive CSCI499 reviews.
+
+**Root cause (tied to a specific pipeline stage):** **Generation stage.** The source file contains Review 3: *"BEWARE! He does not let you pick groups… grades presentations VERY harshly."* That review should appear in retrieved context for a CSCI499 question, but the LLM emphasized positive excerpts and ignored the negative one. This is a grounding failure: the model did not faithfully summarize all relevant retrieved content.
+
+**What you would change to fix it:** Strengthen the prompt to require mentioning conflicting reviews when they exist; or post-process retrieved chunks to surface both positive and negative reviews for the relevant course before generation.
 
 ---
 
 ## Spec Reflection
 
-*(Milestone 6 — pending.)*
-
 **One way the spec helped you during implementation:**
 
+Writing `planning.md` before coding forced me to think about my documents as short reviews rather than long articles, which led to the one-review-per-chunk strategy instead of a generic 500-character split. The evaluation plan was especially useful — having five specific questions with expected answers made it obvious when retrieval or generation failed (for example, Q4 returning Shostak instead of Stamos). The architecture diagram also gave Cursor a clear picture of each pipeline stage when I asked it to implement `ingest.py`, `retrieve.py`, and `query.py`.
+
 **One way your implementation diverged from the spec, and why:**
+
+Two changes were driven by real data and environment issues, not the original plan. First, `rmp_eric_schweitzer.txt` used a different header format than my other nine files, so I added fallback parsing in `ingest.py` to read the professor name from a `Source Document:` line and from the filename. Second, ChromaDB's default Rust backend crashed on my Windows machine, so I configured `PersistentClient` to use `SegmentAPI` in `retrieve.py`. The core spec choices — review-level chunking, MiniLM embeddings, top-k = 5, Groq for generation — stayed the same.
 
 ---
 
 ## AI Usage
 
-*(Milestone 6 — pending.)*
+**Instance 1 — Milestone 3 ingestion and chunking**
 
-**Instance 1**
+- *What I gave the AI:* My Chunking Strategy and Documents sections from `planning.md`, plus sample lines from `rmp_tong_yi.txt` and `rmp_melissa_lynch.txt` showing the two RMP file formats.
+- *What it produced:* A draft `ingest.py` that loaded `.txt` files, split on `Review N` boundaries, prepended metadata, and printed sample chunks with a total count.
+- *What I changed or overrode:* I tested the script on all 10 files and found that `rmp_eric_schweitzer.txt` produced chunks with empty professor names because its header differed from the others. I added a `Source Document:` parser and a filename fallback before re-running. I also verified the final chunk count (~792) matched what I predicted in the spec.
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+**Instance 2 — Milestone 4 embedding and retrieval**
 
-**Instance 2**
-
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* My Retrieval Approach section, the architecture diagram, and the chunk format produced by `ingest.py`. I asked for `retrieve.py` with `all-MiniLM-L6-v2`, ChromaDB storage, and a `retrieve(query, k=5)` function.
+- *What it produced:* `retrieve.py` with `build_index()`, batch embedding, ChromaDB metadata fields, and a test runner for eval questions 1, 2, and 4.
+- *What I changed or overrode:* On Windows, the script crashed when using ChromaDB's default Rust API on `collection.add()`. I switched to `SegmentAPI` in `get_client()` and confirmed retrieval returned the right professor for Q2 but missed Stamos on Q4 — which I documented honestly in the README rather than treating it as a success.
