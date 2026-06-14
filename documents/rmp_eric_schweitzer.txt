@@ -1,7 +1,7 @@
-Source Document: Rate My Professors reviews for Eric Schweitzer
-Source Type: Student professor reviews
-Prepared for: Unofficial Guide RAG project
-Note: Review text was formatted from the pasted RMP review data provided by the user.
+Source: https://www.ratemyprofessors.com/professor/257192
+Professor: Eric Schweitzer
+Department: Computer Science
+Collected: 2026-06-13
 
 ================================================================================
 
